@@ -1,0 +1,1993 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/ HTTP/1.1" 200 9943
+INFO:root:======Links on main page:
+INFO:root:OZHBC,/helipads/view/content.jsp?code=OZHBC
+INFO:root:0YXCY,/helipads/view/content.jsp?code=YXCY
+INFO:root:0YXCB,/helipads/view/content.jsp?code=YXCB
+INFO:root:OZHBD,/helipads/view/content.jsp?code=OZHBD
+INFO:root:0YXSB,/helipads/view/content.jsp?code=YXSB
+INFO:root:0YXAL,/helipads/view/content.jsp?code=YXAL
+INFO:root:OZHDI,/helipads/view/content.jsp?code=OZHDI
+INFO:root:OZHAE,/helipads/view/content.jsp?code=OZHAE
+INFO:root:OZHFQ,/helipads/view/content.jsp?code=OZHFQ
+INFO:root:OZHAF,/helipads/view/content.jsp?code=OZHAF
+INFO:root:0YXAH,/helipads/view/content.jsp?code=YXAH
+INFO:root:OZHAG,/helipads/view/content.jsp?code=OZHAG
+INFO:root:OZHDW,/helipads/view/content.jsp?code=OZHDW
+INFO:root:OZHAQ,/helipads/view/content.jsp?code=OZHAQ
+INFO:root:OZHAH,/helipads/view/content.jsp?code=OZHAH
+INFO:root:OZHJV,/helipads/view/content.jsp?code=OZHJV
+INFO:root:OZHJU,/helipads/view/content.jsp?code=OZHJU
+INFO:root:0YXBH,/helipads/view/content.jsp?code=YXBH
+INFO:root:OZHJF,/helipads/view/content.jsp?code=OZHJF
+INFO:root:OZHKN,/helipads/view/content.jsp?code=OZHKN
+INFO:root:OZHAN,/helipads/view/content.jsp?code=OZHAN
+INFO:root:0YXBV,/helipads/view/content.jsp?code=YXBV
+INFO:root:0YXEG,/helipads/view/content.jsp?code=YXEG
+INFO:root:0YBMG,/helipads/view/content.jsp?code=YBMG
+INFO:root:0YXIG,/helipads/view/content.jsp?code=YXIG
+INFO:root:OZHAL,/helipads/view/content.jsp?code=OZHAL
+INFO:root:0YXAY,/helipads/view/content.jsp?code=YXAY
+INFO:root:OZHBI,/helipads/view/content.jsp?code=OZHBI
+INFO:root:0YXBM,/helipads/view/content.jsp?code=YXBM
+INFO:root:OZHAK,/helipads/view/content.jsp?code=OZHAK
+INFO:root:0YXOM,/helipads/view/content.jsp?code=YXOM
+INFO:root:OZHFY,/helipads/view/content.jsp?code=OZHFY
+INFO:root:OZHAX,/helipads/view/content.jsp?code=OZHAX
+INFO:root:0YXOW,/helipads/view/content.jsp?code=YXOW
+INFO:root:0YXVL,/helipads/view/content.jsp?code=YXVL
+INFO:root:OZHAY,/helipads/view/content.jsp?code=OZHAY
+INFO:root:OZHJG,/helipads/view/content.jsp?code=OZHJG
+INFO:root:OZHJB,/helipads/view/content.jsp?code=OZHJB
+INFO:root:OZHAZ,/helipads/view/content.jsp?code=OZHAZ
+INFO:root:OZHAS,/helipads/view/content.jsp?code=OZHAS
+INFO:root:OZHBA,/helipads/view/content.jsp?code=OZHBA
+INFO:root:OZHAV,/helipads/view/content.jsp?code=OZHAV
+INFO:root:OZHBB,/helipads/view/content.jsp?code=OZHBB
+INFO:root:OZHIR,/helipads/view/content.jsp?code=OZHIR
+INFO:root:OZHIA,/helipads/view/content.jsp?code=OZHIA
+INFO:root:OZHKC,/helipads/view/content.jsp?code=OZHKC
+INFO:root:0YXCP,/helipads/view/content.jsp?code=YXCP
+INFO:root:OZHFM,/helipads/view/content.jsp?code=OZHFM
+INFO:root:0YXAO,/helipads/view/content.jsp?code=YXAO
+INFO:root:OZHDQ,/helipads/view/content.jsp?code=OZHDQ
+INFO:root:OZHBF,/helipads/view/content.jsp?code=OZHBF
+INFO:root:OZHEQ,/helipads/view/content.jsp?code=OZHEQ
+INFO:root:OZHKF,/helipads/view/content.jsp?code=OZHKF
+INFO:root:OZHBM,/helipads/view/content.jsp?code=OZHBM
+INFO:root:0YXOF,/helipads/view/content.jsp?code=YXOF
+INFO:root:0YXCC,/helipads/view/content.jsp?code=YXCC
+INFO:root:0YXOL,/helipads/view/content.jsp?code=YXOL
+INFO:root:0YXOH,/helipads/view/content.jsp?code=YXOH
+INFO:root:0YXCM,/helipads/view/content.jsp?code=YXCM
+INFO:root:OZHEA,/helipads/view/content.jsp?code=OZHEA
+INFO:root:0YXAB,/helipads/view/content.jsp?code=YXAB
+INFO:root:0YXOO,/helipads/view/content.jsp?code=YXOO
+INFO:root:OZHIF,/helipads/view/content.jsp?code=OZHIF
+INFO:root:OZHDN,/helipads/view/content.jsp?code=OZHDN
+INFO:root:OZCRM,/helipads/view/content.jsp?code=OZCRM
+INFO:root:0YXOK,/helipads/view/content.jsp?code=YXOK
+INFO:root:OZHPQ,/helipads/view/content.jsp?code=OZHPQ
+INFO:root:0YXDE,/helipads/view/content.jsp?code=YXDE
+INFO:root:0YXDG,/helipads/view/content.jsp?code=YXDG
+INFO:root:OZHIG,/helipads/view/content.jsp?code=OZHIG
+INFO:root:0YXDB,/helipads/view/content.jsp?code=YXDB
+INFO:root:0YXDN,/helipads/view/content.jsp?code=YXDN
+INFO:root:OZHAA,/helipads/view/content.jsp?code=OZHAA
+INFO:root:OZHJH,/helipads/view/content.jsp?code=OZHJH
+INFO:root:0YXEM,/helipads/view/content.jsp?code=YXEM
+INFO:root:OZHIS,/helipads/view/content.jsp?code=OZHIS
+INFO:root:OZHDS,/helipads/view/content.jsp?code=OZHDS
+INFO:root:0YEVD,/helipads/view/content.jsp?code=YEVD
+INFO:root:OZHBR,/helipads/view/content.jsp?code=OZHBR
+INFO:root:0YXFO,/helipads/view/content.jsp?code=YXFO
+INFO:root:OZHCD,/helipads/view/content.jsp?code=OZHCD
+INFO:root:OZHCB,/helipads/view/content.jsp?code=OZHCB
+INFO:root:OZHBU,/helipads/view/content.jsp?code=OZHBU
+INFO:root:0YXGR,/helipads/view/content.jsp?code=YXGR
+INFO:root:0YXGE,/helipads/view/content.jsp?code=YXGE
+INFO:root:0YGLK,/helipads/view/content.jsp?code=YGLK
+INFO:root:0YXGC,/helipads/view/content.jsp?code=YXGC
+INFO:root:0YXGS,/helipads/view/content.jsp?code=YXGS
+INFO:root:0YXGH,/helipads/view/content.jsp?code=YXGH
+INFO:root:OZHKM,/helipads/view/content.jsp?code=OZHKM
+INFO:root:0YXGP,/helipads/view/content.jsp?code=YXGP
+INFO:root:0YXGL,/helipads/view/content.jsp?code=YXGL
+INFO:root:0YXGT,/helipads/view/content.jsp?code=YXGT
+INFO:root:0YXGW,/helipads/view/content.jsp?code=YXGW
+INFO:root:OZHDZ,/helipads/view/content.jsp?code=OZHDZ
+INFO:root:OZHDC,/helipads/view/content.jsp?code=OZHDC
+INFO:root:0YXGU,/helipads/view/content.jsp?code=YXGU
+INFO:root:OZHCC,/helipads/view/content.jsp?code=OZHCC
+INFO:root:OZHCE,/helipads/view/content.jsp?code=OZHCE
+INFO:root:OZHJK,/helipads/view/content.jsp?code=OZHJK
+INFO:root:OZHJX,/helipads/view/content.jsp?code=OZHJX
+INFO:root:OZHDO,/helipads/view/content.jsp?code=OZHDO
+INFO:root:OZHDU,/helipads/view/content.jsp?code=OZHDU
+INFO:root:0YHPG,/helipads/view/content.jsp?code=YHPG
+INFO:root:0YXHK,/helipads/view/content.jsp?code=YXHK
+INFO:root:OZHIU,/helipads/view/content.jsp?code=OZHIU
+INFO:root:0YXIV,/helipads/view/content.jsp?code=YXIV
+INFO:root:0YXJD,/helipads/view/content.jsp?code=YXJD
+INFO:root:0YXJH,/helipads/view/content.jsp?code=YXJH
+INFO:root:OZHDX,/helipads/view/content.jsp?code=OZHDX
+INFO:root:OZHJL,/helipads/view/content.jsp?code=OZHJL
+INFO:root:0YKAM,/helipads/view/content.jsp?code=YKAM
+INFO:root:0YXKO,/helipads/view/content.jsp?code=YXKO
+INFO:root:0YXLE,/helipads/view/content.jsp?code=YXLE
+INFO:root:0YLIH,/helipads/view/content.jsp?code=YLIH
+INFO:root:0YXLG,/helipads/view/content.jsp?code=YXLG
+INFO:root:0YXLL,/helipads/view/content.jsp?code=YXLL
+INFO:root:OZHFL,/helipads/view/content.jsp?code=OZHFL
+INFO:root:OZHFN,/helipads/view/content.jsp?code=OZHFN
+INFO:root:0YXMK,/helipads/view/content.jsp?code=YXMK
+INFO:root:0YXMA,/helipads/view/content.jsp?code=YXMA
+INFO:root:0YXUH,/helipads/view/content.jsp?code=YXUH
+INFO:root:0YXMT,/helipads/view/content.jsp?code=YXMT
+INFO:root:OZHIX,/helipads/view/content.jsp?code=OZHIX
+INFO:root:OZHMC,/helipads/view/content.jsp?code=OZHMC
+INFO:root:0YXMW,/helipads/view/content.jsp?code=YXMW
+INFO:root:OZHFP,/helipads/view/content.jsp?code=OZHFP
+INFO:root:0YXUA,/helipads/view/content.jsp?code=YXUA
+INFO:root:OZHDR,/helipads/view/content.jsp?code=OZHDR
+INFO:root:0YXMV,/helipads/view/content.jsp?code=YXMV
+INFO:root:0YXEE,/helipads/view/content.jsp?code=YXEE
+INFO:root:0YXMY,/helipads/view/content.jsp?code=YXMY
+INFO:root:0YXMD,/helipads/view/content.jsp?code=YXMD
+INFO:root:OZHDD,/helipads/view/content.jsp?code=OZHDD
+INFO:root:OZHCO,/helipads/view/content.jsp?code=OZHCO
+INFO:root:0YOCM,/helipads/view/content.jsp?code=YOCM
+INFO:root:OZHFO,/helipads/view/content.jsp?code=OZHFO
+INFO:root:0YXMH,/helipads/view/content.jsp?code=YXMH
+INFO:root:OZHKB,/helipads/view/content.jsp?code=OZHKB
+INFO:root:OZHIB,/helipads/view/content.jsp?code=OZHIB
+INFO:root:0YMUR,/helipads/view/content.jsp?code=YMUR
+INFO:root:0YXUS,/helipads/view/content.jsp?code=YXUS
+INFO:root:OZHKO,/helipads/view/content.jsp?code=OZHKO
+INFO:root:OZHFK,/helipads/view/content.jsp?code=OZHFK
+INFO:root:0YXNH,/helipads/view/content.jsp?code=YXNH
+INFO:root:OZHNU,/helipads/view/content.jsp?code=OZHNU
+INFO:root:0YXNY,/helipads/view/content.jsp?code=YXNY
+INFO:root:OZHKD,/helipads/view/content.jsp?code=OZHKD
+INFO:root:0YXNE,/helipads/view/content.jsp?code=YXNE
+INFO:root:OZHJN,/helipads/view/content.jsp?code=OZHJN
+INFO:root:0YNRH,/helipads/view/content.jsp?code=YNRH
+INFO:root:0YXFV,/helipads/view/content.jsp?code=YXFV
+INFO:root:OZHIY,/helipads/view/content.jsp?code=OZHIY
+INFO:root:OZHDK,/helipads/view/content.jsp?code=OZHDK
+INFO:root:0YXNL,/helipads/view/content.jsp?code=YXNL
+INFO:root:OZHEB,/helipads/view/content.jsp?code=OZHEB
+INFO:root:0YOBE,/helipads/view/content.jsp?code=YOBE
+INFO:root:0YXOG,/helipads/view/content.jsp?code=YXOG
+INFO:root:0YXCF,/helipads/view/content.jsp?code=YXCF
+INFO:root:OZHPO,/helipads/view/content.jsp?code=OZHPO
+INFO:root:OZHPP,/helipads/view/content.jsp?code=OZHPP
+INFO:root:OZHEJ,/helipads/view/content.jsp?code=OZHEJ
+INFO:root:0YPLI,/helipads/view/content.jsp?code=YPLI
+INFO:root:0YXPK,/helipads/view/content.jsp?code=YXPK
+INFO:root:0YXPH,/helipads/view/content.jsp?code=YXPH
+INFO:root:0YPSR,/helipads/view/content.jsp?code=YPSR
+INFO:root:0YXPM,/helipads/view/content.jsp?code=YXPM
+INFO:root:0YPOR,/helipads/view/content.jsp?code=YPOR
+INFO:root:0YXQU,/helipads/view/content.jsp?code=YXQU
+INFO:root:OZHKG,/helipads/view/content.jsp?code=OZHKG
+INFO:root:OZRGH,/helipads/view/content.jsp?code=OZRGH
+INFO:root:OZHKP,/helipads/view/content.jsp?code=OZHKP
+INFO:root:0YXNS,/helipads/view/content.jsp?code=YXNS
+INFO:root:0YRPA,/helipads/view/content.jsp?code=YRPA
+INFO:root:0YXRN,/helipads/view/content.jsp?code=YXRN
+INFO:root:OZHEX,/helipads/view/content.jsp?code=OZHEX
+INFO:root:0YXSC,/helipads/view/content.jsp?code=YXSC
+INFO:root:OZHSP,/helipads/view/content.jsp?code=OZHSP
+INFO:root:0YXSH,/helipads/view/content.jsp?code=YXSH
+INFO:root:0YXSE,/helipads/view/content.jsp?code=YXSE
+INFO:root:0YXSI,/helipads/view/content.jsp?code=YXSI
+INFO:root:OZHFA,/helipads/view/content.jsp?code=OZHFA
+INFO:root:OZHEZ,/helipads/view/content.jsp?code=OZHEZ
+INFO:root:OZHDL,/helipads/view/content.jsp?code=OZHDL
+INFO:root:0YXSG,/helipads/view/content.jsp?code=YXSG
+INFO:root:0YXSA,/helipads/view/content.jsp?code=YXSA
+INFO:root:0YXSN,/helipads/view/content.jsp?code=YXSN
+INFO:root:OZHJO,/helipads/view/content.jsp?code=OZHJO
+INFO:root:OZHIZ,/helipads/view/content.jsp?code=OZHIZ
+INFO:root:OZHFE,/helipads/view/content.jsp?code=OZHFE
+INFO:root:0YXTW,/helipads/view/content.jsp?code=YXTW
+INFO:root:OZHTW,/helipads/view/content.jsp?code=OZHTW
+INFO:root:0YXTE,/helipads/view/content.jsp?code=YXTE
+INFO:root:0YXNW,/helipads/view/content.jsp?code=YXNW
+INFO:root:0YTHB,/helipads/view/content.jsp?code=YTHB
+INFO:root:OZHFF,/helipads/view/content.jsp?code=OZHFF
+INFO:root:OZHDP,/helipads/view/content.jsp?code=OZHDP
+INFO:root:0YXTD,/helipads/view/content.jsp?code=YXTD
+INFO:root:OZHFD,/helipads/view/content.jsp?code=OZHFD
+INFO:root:OZHJA,/helipads/view/content.jsp?code=OZHJA
+INFO:root:OZHJC,/helipads/view/content.jsp?code=OZHJC
+INFO:root:OZHTT,/helipads/view/content.jsp?code=OZHTT
+INFO:root:0YXTV,/helipads/view/content.jsp?code=YXTV
+INFO:root:OZHKA,/helipads/view/content.jsp?code=OZHKA
+INFO:root:OZHDM,/helipads/view/content.jsp?code=OZHDM
+INFO:root:OZHFJ,/helipads/view/content.jsp?code=OZHFJ
+INFO:root:0YVCB,/helipads/view/content.jsp?code=YVCB
+INFO:root:OZHCH,/helipads/view/content.jsp?code=OZHCH
+INFO:root:0YXWG,/helipads/view/content.jsp?code=YXWG
+INFO:root:OZHFV,/helipads/view/content.jsp?code=OZHFV
+INFO:root:0YWAN,/helipads/view/content.jsp?code=YWAN
+INFO:root:OZHJP,/helipads/view/content.jsp?code=OZHJP
+INFO:root:0YWRN,/helipads/view/content.jsp?code=YWRN
+INFO:root:OZHJW,/helipads/view/content.jsp?code=OZHJW
+INFO:root:0YWBN,/helipads/view/content.jsp?code=YWBN
+INFO:root:0YXWW,/helipads/view/content.jsp?code=YXWW
+INFO:root:0YXWT,/helipads/view/content.jsp?code=YXWT
+INFO:root:OZHWC,/helipads/view/content.jsp?code=OZHWC
+INFO:root:0YXWS,/helipads/view/content.jsp?code=YXWS
+INFO:root:0YXWM,/helipads/view/content.jsp?code=YXWM
+INFO:root:0YWST,/helipads/view/content.jsp?code=YWST
+INFO:root:OZHJD,/helipads/view/content.jsp?code=OZHJD
+INFO:root:OZHFX,/helipads/view/content.jsp?code=OZHFX
+INFO:root:0YXWL,/helipads/view/content.jsp?code=YXWL
+INFO:root:OZHFI,/helipads/view/content.jsp?code=OZHFI
+INFO:root:OZHFS,/helipads/view/content.jsp?code=OZHFS
+INFO:root:OZHJE,/helipads/view/content.jsp?code=OZHJE
+INFO:root:0YXWY,/helipads/view/content.jsp?code=YXWY
+INFO:root:OZHFW,/helipads/view/content.jsp?code=OZHFW
+INFO:root:OZHJQ,/helipads/view/content.jsp?code=OZHJQ
+INFO:root:0YXYA,/helipads/view/content.jsp?code=YXYA
+INFO:root:OZHEP,/helipads/view/content.jsp?code=OZHEP
+INFO:root:OZHKJ,/helipads/view/content.jsp?code=OZHKJ
+INFO:root:0YXYO,/helipads/view/content.jsp?code=YXYO
+INFO:root:OZHAB,/helipads/view/content.jsp?code=OZHAB
+INFO:root:OZHKH,/helipads/view/content.jsp?code=OZHKH
+INFO:root:OZHBN,/helipads/view/content.jsp?code=OZHBN
+INFO:root:OZHBO,/helipads/view/content.jsp?code=OZHBO
+INFO:root:OZHIQ,/helipads/view/content.jsp?code=OZHIQ
+INFO:root:OZHBZ,/helipads/view/content.jsp?code=OZHBZ
+INFO:root:OZHDY,/helipads/view/content.jsp?code=OZHDY
+INFO:root:OZHIJ,/helipads/view/content.jsp?code=OZHIJ
+INFO:root:OZHIK,/helipads/view/content.jsp?code=OZHIK
+INFO:root:OZHIO,/helipads/view/content.jsp?code=OZHIO
+INFO:root:OZHIL,/helipads/view/content.jsp?code=OZHIL
+INFO:root:OZHIM,/helipads/view/content.jsp?code=OZHIM
+INFO:root:OZHIN,/helipads/view/content.jsp?code=OZHIN
+INFO:root:OZHIP,/helipads/view/content.jsp?code=OZHIP
+INFO:root:OZHII,/helipads/view/content.jsp?code=OZHII
+INFO:root:OZHWE,/helipads/view/content.jsp?code=OZHWE
+INFO:root:OZHIC,/helipads/view/content.jsp?code=OZHIC
+INFO:root:0YXDH,/helipads/view/content.jsp?code=YXDH
+INFO:root:OZHAC,/helipads/view/content.jsp?code=OZHAC
+INFO:root:0YBAF,/helipads/view/content.jsp?code=YBAF
+INFO:root:0YXBS,/helipads/view/content.jsp?code=YXBS
+INFO:root:0YXBI,/helipads/view/content.jsp?code=YXBI
+INFO:root:OZHAO,/helipads/view/content.jsp?code=OZHAO
+INFO:root:OZHAI,/helipads/view/content.jsp?code=OZHAI
+INFO:root:0YXKW,/helipads/view/content.jsp?code=YXKW
+INFO:root:OZHJT,/helipads/view/content.jsp?code=OZHJT
+INFO:root:OZHAR,/helipads/view/content.jsp?code=OZHAR
+INFO:root:0YBOA,/helipads/view/content.jsp?code=YBOA
+INFO:root:OZHJZ,/helipads/view/content.jsp?code=OZHJZ
+INFO:root:0YXBW,/helipads/view/content.jsp?code=YXBW
+INFO:root:0YBPI,/helipads/view/content.jsp?code=YBPI
+INFO:root:OZHAW,/helipads/view/content.jsp?code=OZHAW
+INFO:root:0YXBU,/helipads/view/content.jsp?code=YXBU
+INFO:root:0YXBD,/helipads/view/content.jsp?code=YXBD
+INFO:root:0YXCA,/helipads/view/content.jsp?code=YXCA
+INFO:root:0YCAX,/helipads/view/content.jsp?code=YCAX
+INFO:root:0YXCH,/helipads/view/content.jsp?code=YXCH
+INFO:root:OZHID,/helipads/view/content.jsp?code=OZHID
+INFO:root:0YXCI,/helipads/view/content.jsp?code=YXCI
+INFO:root:OZHBL,/helipads/view/content.jsp?code=OZHBL
+INFO:root:0YXCV,/helipads/view/content.jsp?code=YXCV
+INFO:root:OZHBH,/helipads/view/content.jsp?code=OZHBH
+INFO:root:OZHBK,/helipads/view/content.jsp?code=OZHBK
+INFO:root:0YCOV,/helipads/view/content.jsp?code=YCOV
+INFO:root:0YCNT,/helipads/view/content.jsp?code=YCNT
+INFO:root:0YXCU,/helipads/view/content.jsp?code=YXCU
+INFO:root:0YXDA,/helipads/view/content.jsp?code=YXDA
+INFO:root:0YDDI,/helipads/view/content.jsp?code=YDDI
+INFO:root:OZHBP,/helipads/view/content.jsp?code=OZHBP
+INFO:root:OZHBQ,/helipads/view/content.jsp?code=OZHBQ
+INFO:root:0YXDU,/helipads/view/content.jsp?code=YXDU
+INFO:root:0YXDY,/helipads/view/content.jsp?code=YXDY
+INFO:root:0YXEI,/helipads/view/content.jsp?code=YXEI
+INFO:root:OZHBS,/helipads/view/content.jsp?code=OZHBS
+INFO:root:0YXES,/helipads/view/content.jsp?code=YXES
+INFO:root:OZHCA,/helipads/view/content.jsp?code=OZHCA
+INFO:root:OZHBT,/helipads/view/content.jsp?code=OZHBT
+INFO:root:OZHDE,/helipads/view/content.jsp?code=OZHDE
+INFO:root:0YXGA,/helipads/view/content.jsp?code=YXGA
+INFO:root:0YXGI,/helipads/view/content.jsp?code=YXGI
+INFO:root:0YXDT,/helipads/view/content.jsp?code=YXDT
+INFO:root:0YXHG,/helipads/view/content.jsp?code=YXHG
+INFO:root:OZHBV,/helipads/view/content.jsp?code=OZHBV
+INFO:root:OZHBX,/helipads/view/content.jsp?code=OZHBX
+INFO:root:0YXGO,/helipads/view/content.jsp?code=YXGO
+INFO:root:OZHBY,/helipads/view/content.jsp?code=OZHBY
+INFO:root:0YXGY,/helipads/view/content.jsp?code=YXGY
+INFO:root:0YHPB,/helipads/view/content.jsp?code=YHPB
+INFO:root:0YHPY,/helipads/view/content.jsp?code=YHPY
+INFO:root:0YHYN,/helipads/view/content.jsp?code=YHYN
+INFO:root:0YHRN,/helipads/view/content.jsp?code=YHRN
+INFO:root:0YXHE,/helipads/view/content.jsp?code=YXHE
+INFO:root:0YXIW,/helipads/view/content.jsp?code=YXIW
+INFO:root:0YXIP,/helipads/view/content.jsp?code=YXIP
+INFO:root:0YXJN,/helipads/view/content.jsp?code=YXJN
+INFO:root:OZHCI,/helipads/view/content.jsp?code=OZHCI
+INFO:root:OZHCL,/helipads/view/content.jsp?code=OZHCL
+INFO:root:0YXKP,/helipads/view/content.jsp?code=YXKP
+INFO:root:OZHCJ,/helipads/view/content.jsp?code=OZHCJ
+INFO:root:0YXKI,/helipads/view/content.jsp?code=YXKI
+INFO:root:OZHCN,/helipads/view/content.jsp?code=OZHCN
+INFO:root:OZHIW,/helipads/view/content.jsp?code=OZHIW
+INFO:root:0YXKN,/helipads/view/content.jsp?code=YXKN
+INFO:root:OZHCK,/helipads/view/content.jsp?code=OZHCK
+INFO:root:OZHCM,/helipads/view/content.jsp?code=OZHCM
+INFO:root:0YLTT,/helipads/view/content.jsp?code=YLTT
+INFO:root:0YXLA,/helipads/view/content.jsp?code=YXLA
+INFO:root:0YXLM,/helipads/view/content.jsp?code=YXLM
+INFO:root:OZHCP,/helipads/view/content.jsp?code=OZHCP
+INFO:root:0YLIN,/helipads/view/content.jsp?code=YLIN
+INFO:root:0YXMC,/helipads/view/content.jsp?code=YXMC
+INFO:root:OZHDH,/helipads/view/content.jsp?code=OZHDH
+INFO:root:OZHCQ,/helipads/view/content.jsp?code=OZHCQ
+INFO:root:0YMAT,/helipads/view/content.jsp?code=YMAT
+INFO:root:OZHCW,/helipads/view/content.jsp?code=OZHCW
+INFO:root:0YXMS,/helipads/view/content.jsp?code=YXMS
+INFO:root:0YXLR,/helipads/view/content.jsp?code=YXLR
+INFO:root:OZHCV,/helipads/view/content.jsp?code=OZHCV
+INFO:root:0YXOT,/helipads/view/content.jsp?code=YXOT
+INFO:root:OZHCU,/helipads/view/content.jsp?code=OZHCU
+INFO:root:OZHCT,/helipads/view/content.jsp?code=OZHCT
+INFO:root:OZHFR,/helipads/view/content.jsp?code=OZHFR
+INFO:root:OZHCY,/helipads/view/content.jsp?code=OZHCY
+INFO:root:OZHCZ,/helipads/view/content.jsp?code=OZHCZ
+INFO:root:OZHBJ,/helipads/view/content.jsp?code=OZHBJ
+INFO:root:OZHDA,/helipads/view/content.jsp?code=OZHDA
+INFO:root:0YXMP,/helipads/view/content.jsp?code=YXMP
+INFO:root:OZHCS,/helipads/view/content.jsp?code=OZHCS
+INFO:root:0YXDR,/helipads/view/content.jsp?code=YXDR
+INFO:root:0YXMG,/helipads/view/content.jsp?code=YXMG
+INFO:root:OZHEK,/helipads/view/content.jsp?code=OZHEK
+INFO:root:0YXNA,/helipads/view/content.jsp?code=YXNA
+INFO:root:0YXNN,/helipads/view/content.jsp?code=YXNN
+INFO:root:OZHDV,/helipads/view/content.jsp?code=OZHDV
+INFO:root:OZHDG,/helipads/view/content.jsp?code=OZHDG
+INFO:root:OZHES,/helipads/view/content.jsp?code=OZHES
+INFO:root:OZHEG,/helipads/view/content.jsp?code=OZHEG
+INFO:root:OZHEH,/helipads/view/content.jsp?code=OZHEH
+INFO:root:0YXOR,/helipads/view/content.jsp?code=YXOR
+INFO:root:0YPAC,/helipads/view/content.jsp?code=YPAC
+INFO:root:0YXPI,/helipads/view/content.jsp?code=YXPI
+INFO:root:0YPLT,/helipads/view/content.jsp?code=YPLT
+INFO:root:OZHAU,/helipads/view/content.jsp?code=OZHAU
+INFO:root:OZHEL,/helipads/view/content.jsp?code=OZHEL
+INFO:root:0YPRC,/helipads/view/content.jsp?code=YPRC
+INFO:root:0YPRI,/helipads/view/content.jsp?code=YPRI
+INFO:root:0YXPN,/helipads/view/content.jsp?code=YXPN
+INFO:root:0YXQC,/helipads/view/content.jsp?code=YXQC
+INFO:root:OZHEO,/helipads/view/content.jsp?code=OZHEO
+INFO:root:0YXRK,/helipads/view/content.jsp?code=YXRK
+INFO:root:OZHER,/helipads/view/content.jsp?code=OZHER
+INFO:root:0YRBH,/helipads/view/content.jsp?code=YRBH
+INFO:root:0YRBC,/helipads/view/content.jsp?code=YRBC
+INFO:root:0YXRU,/helipads/view/content.jsp?code=YXRU
+INFO:root:OZHET,/helipads/view/content.jsp?code=OZHET
+INFO:root:0YSGE,/helipads/view/content.jsp?code=YSGE
+INFO:root:OZHEU,/helipads/view/content.jsp?code=OZHEU
+INFO:root:0YSML,/helipads/view/content.jsp?code=YSML
+INFO:root:0YXST,/helipads/view/content.jsp?code=YXST
+INFO:root:0YXHS,/helipads/view/content.jsp?code=YXHS
+INFO:root:0YXTM,/helipads/view/content.jsp?code=YXTM
+INFO:root:0YTGA,/helipads/view/content.jsp?code=YTGA
+INFO:root:0YXTA,/helipads/view/content.jsp?code=YXTA
+INFO:root:OZHFC,/helipads/view/content.jsp?code=OZHFC
+INFO:root:0YXRH,/helipads/view/content.jsp?code=YXRH
+INFO:root:0YXTX,/helipads/view/content.jsp?code=YXTX
+INFO:root:0YXTO,/helipads/view/content.jsp?code=YXTO
+INFO:root:OZHFH,/helipads/view/content.jsp?code=OZHFH
+INFO:root:OZHFG,/helipads/view/content.jsp?code=OZHFG
+INFO:root:0YXTL,/helipads/view/content.jsp?code=YXTL
+INFO:root:0YXWA,/helipads/view/content.jsp?code=YXWA
+INFO:root:0YWIS,/helipads/view/content.jsp?code=YWIS
+INFO:root:OZHFU,/helipads/view/content.jsp?code=OZHFU
+INFO:root:OZHJR,/helipads/view/content.jsp?code=OZHJR
+INFO:root:0YXPO,/helipads/view/content.jsp?code=YXPO
+INFO:root:0YBUI,/helipads/view/content.jsp?code=YBUI
+INFO:root:0YAFD,/helipads/view/content.jsp?code=YAFD
+INFO:root:0YGIS,/helipads/view/content.jsp?code=YGIS
+INFO:root:OZHJS,/helipads/view/content.jsp?code=OZHJS
+INFO:root:0YRMH,/helipads/view/content.jsp?code=YRMH
+INFO:root:0YXFH,/helipads/view/content.jsp?code=YXFH
+INFO:root:0YXQE,/helipads/view/content.jsp?code=YXQE
+INFO:root:0YXRP,/helipads/view/content.jsp?code=YXRP
+INFO:root:OZHKL,/helipads/view/content.jsp?code=OZHKL
+INFO:root:======Processing html for YAFD
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YAFD HTTP/1.1" 200 1736
+INFO:root:                  <dd>37&deg; 50.71'S 144&deg; 58.88'E</dd>
+INFO:root:======Processing html for YBAF
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YBAF HTTP/1.1" 200 1831
+INFO:root:                  <dd>27&deg; 34.19'S 153&deg; 00.05'E</dd>
+INFO:root:======Processing html for YBMG
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YBMG HTTP/1.1" 200 1673
+INFO:root:                  <dd>36&deg; 25.59'S 150&deg; 04.57'E</dd>
+INFO:root:======Processing html for YBOA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YBOA HTTP/1.1" 200 1774
+INFO:root:                  <dd>28&deg; 01.00'S 152&deg; 40.90'E</dd>
+INFO:root:======Processing html for YBPI
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YBPI HTTP/1.1" 200 1729
+INFO:root:                  <dd>20&deg; 48.40'S 149&deg; 16.90'E</dd>
+INFO:root:======Processing html for YBUI
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YBUI HTTP/1.1" 200 2126
+INFO:root:                  <dd>41&deg; 02.83'S 145&deg; 52.84'E</dd>
+INFO:root:======Processing html for YCAX
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YCAX HTTP/1.1" 200 1769
+INFO:root:                  <dd>28&deg; 00.12'S 153&deg; 21.45'E</dd>
+INFO:root:======Processing html for YCNT
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YCNT HTTP/1.1" 200 1973
+INFO:root:                  <dd>27&deg; 15.53'S 152&deg; 03.31'E</dd>
+INFO:root:======Processing html for YCOV
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YCOV HTTP/1.1" 200 1726
+INFO:root:                  <dd>27&deg; 49.40'S 153&deg; 24.56'E</dd>
+INFO:root:======Processing html for YDDI
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YDDI HTTP/1.1" 200 1690
+INFO:root:                  <dd>20&deg; 15.58'S 148&deg; 48.72'E</dd>
+INFO:root:======Processing html for YEVD
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YEVD HTTP/1.1" 200 1750
+INFO:root:                  <dd>29&deg; 06.15'S 153&deg; 25.24'E</dd>
+INFO:root:======Processing html for YGIS
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YGIS HTTP/1.1" 200 1759
+INFO:root:                  <dd>37&deg; 29.05'S 144&deg; 35.14'E</dd>
+INFO:root:======Processing html for YGLK
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YGLK HTTP/1.1" 200 1791
+INFO:root:                  <dd>33&deg; 47.25'S 150&deg; 36.51'E</dd>
+INFO:root:======Processing html for YHPB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YHPB HTTP/1.1" 200 1705
+INFO:root:                  <dd>20&deg; 20.33'S 148&deg; 51.13'E</dd>
+INFO:root:======Processing html for YHPG
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YHPG HTTP/1.1" 200 1698
+INFO:root:                  <dd>33&deg; 49.70'S 151&deg; 15.70'E</dd>
+INFO:root:======Processing html for YHPY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YHPY HTTP/1.1" 200 1624
+INFO:root:                  <dd>25&deg; 20.18'S 153&deg; 12.11'E</dd>
+INFO:root:======Processing html for YHRN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YHRN HTTP/1.1" 200 1758
+INFO:root:                  <dd>23&deg; 26.70'S 151&deg; 54.60'E</dd>
+INFO:root:======Processing html for YHYN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YHYN HTTP/1.1" 200 1507
+INFO:root:                  <dd>20&deg; 03.60'S 148&deg; 53.10'E</dd>
+INFO:root:======Processing html for YKAM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YKAM HTTP/1.1" 200 1654
+INFO:root:                  <dd>34&deg; 40.47'S 150&deg; 51.46'E</dd>
+INFO:root:======Processing html for YLIH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YLIH HTTP/1.1" 200 2377
+INFO:root:                  <dd>28&deg; 48.54'S 153&deg; 17.53'E</dd>
+INFO:root:======Processing html for YLIN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YLIN HTTP/1.1" 200 1573
+INFO:root:                  <dd>20&deg; 27.00'S 149&deg; 02.00'E</dd>
+INFO:root:======Processing html for YLTT
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YLTT HTTP/1.1" 200 1574
+INFO:root:                  <dd>24&deg; 05.93'S 152&deg; 41.41'E</dd>
+INFO:root:======Processing html for YMAT
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YMAT HTTP/1.1" 200 1800
+INFO:root:                  <dd>27&deg; 29.09'S 153&deg; 01.67'E</dd>
+INFO:root:======Processing html for YMUR
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YMUR HTTP/1.1" 200 1773
+INFO:root:                  <dd>28&deg; 19.86'S 153&deg; 24.83'E</dd>
+INFO:root:======Processing html for YNRH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YNRH HTTP/1.1" 200 1909
+INFO:root:                  <dd>32&deg; 52.44'S 151&deg; 43.40'E</dd>
+INFO:root:======Processing html for YOBE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YOBE HTTP/1.1" 200 1679
+INFO:root:                  <dd>33&deg; 42.04'S 149&deg; 51.35'E</dd>
+INFO:root:======Processing html for YOCM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YOCM HTTP/1.1" 200 1783
+INFO:root:                  <dd>32&deg; 23.65'S 151&deg; 05.45'E</dd>
+INFO:root:======Processing html for YPAC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YPAC HTTP/1.1" 200 1680
+INFO:root:                  <dd>25&deg; 14.37'S 152&deg; 32.61'E</dd>
+INFO:root:======Processing html for YPLI
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YPLI HTTP/1.1" 200 1740
+INFO:root:                  <dd>29&deg; 26.72'S 153&deg; 16.01'E</dd>
+INFO:root:======Processing html for YPLT
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YPLT HTTP/1.1" 200 1637
+INFO:root:                  <dd>27&deg; 25.58'S 153&deg; 31.34'E</dd>
+INFO:root:======Processing html for YPOR
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YPOR HTTP/1.1" 200 1570
+INFO:root:                  <dd>33&deg; 21.27'S 149&deg; 58.98'E</dd>
+INFO:root:======Processing html for YPRC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YPRC HTTP/1.1" 200 1937
+INFO:root:                  <dd>27&deg; 23.40'S 153&deg; 01.40'E</dd>
+INFO:root:======Processing html for YPRI
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YPRI HTTP/1.1" 200 1793
+INFO:root:                  <dd>27&deg; 30.01'S 153&deg; 02.03'E</dd>
+INFO:root:======Processing html for YPSR
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YPSR HTTP/1.1" 200 1972
+INFO:root:                  <dd>36&deg; 24.31'S 148&deg; 24.89'E</dd>
+INFO:root:======Processing html for YRBC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YRBC HTTP/1.1" 200 1813
+INFO:root:                  <dd>27&deg; 27.01'S 153&deg; 01.66'E</dd>
+INFO:root:======Processing html for YRBH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YRBH HTTP/1.1" 200 2021
+INFO:root:                  <dd>27&deg; 26.82'S 153&deg; 01.70'E</dd>
+INFO:root:======Processing html for YRMH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YRMH HTTP/1.1" 200 1893
+INFO:root:                  <dd>37&deg; 47.57'S 144&deg; 57.22'E</dd>
+INFO:root:======Processing html for YRPA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YRPA HTTP/1.1" 200 1747
+INFO:root:                  <dd>33&deg; 53.36'S 151&deg; 11.00'E</dd>
+INFO:root:======Processing html for YSGE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YSGE HTTP/1.1" 200 1417
+INFO:root:                  <dd>28&deg; 03.00'S 148&deg; 35.70'E</dd>
+INFO:root:======Processing html for YSML
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YSML HTTP/1.1" 200 1593
+INFO:root:                  <dd>20&deg; 15.78'S 148&deg; 50.33'E</dd>
+INFO:root:======Processing html for YTGA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YTGA HTTP/1.1" 200 1745
+INFO:root:                  <dd>27&deg; 07.85'S 153&deg; 21.82'E</dd>
+INFO:root:======Processing html for YTHB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YTHB HTTP/1.1" 200 1831
+INFO:root:                  <dd>36&deg; 30.34'S 148&deg; 18.16'E</dd>
+INFO:root:======Processing html for YVCB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YVCB HTTP/1.1" 200 1915
+INFO:root:                  <dd>33&deg; 53.11'S 151&deg; 13.41'E</dd>
+INFO:root:======Processing html for YWAN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YWAN HTTP/1.1" 200 1712
+INFO:root:                  <dd>34&deg; 02.38'S 151&deg; 09.81'E</dd>
+INFO:root:======Processing html for YWBN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YWBN HTTP/1.1" 200 1637
+INFO:root:                  <dd>34&deg; 10.80'S 150&deg; 48.50'E</dd>
+INFO:root:======Processing html for YWIS
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YWIS HTTP/1.1" 200 1691
+INFO:root:                  <dd>22&deg; 28.00'S 150&deg; 10.00'E</dd>
+INFO:root:======Processing html for YWRN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YWRN HTTP/1.1" 200 1553
+INFO:root:                  <dd>31&deg; 41.70'S 147&deg; 50.30'E</dd>
+INFO:root:======Processing html for YWST
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YWST HTTP/1.1" 200 2161
+INFO:root:                  <dd>33&deg; 48.30'S 150&deg; 59.30'E</dd>
+INFO:root:======Processing html for YXAB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXAB HTTP/1.1" 200 1890
+INFO:root:                  <dd>31&deg; 16.53'S 149&deg; 17.04'E</dd>
+INFO:root:======Processing html for YXAH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXAH HTTP/1.1" 200 1990
+INFO:root:                  <dd>30&deg; 30.67'S 151&deg; 39.34'E</dd>
+INFO:root:======Processing html for YXAL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXAL HTTP/1.1" 200 1729
+INFO:root:                  <dd>36&deg; 04.76'S 146&deg; 56.31'E</dd>
+INFO:root:======Processing html for YXAO
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXAO HTTP/1.1" 200 1750
+INFO:root:                  <dd>33&deg; 33.40'S 148&deg; 40.50'E</dd>
+INFO:root:======Processing html for YXAY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXAY HTTP/1.1" 200 1708
+INFO:root:                  <dd>33&deg; 32.09'S 149&deg; 14.95'E</dd>
+INFO:root:======Processing html for YXBD
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXBD HTTP/1.1" 200 1795
+INFO:root:                  <dd>24&deg; 52.25'S 152&deg; 20.13'E</dd>
+INFO:root:======Processing html for YXBH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXBH HTTP/1.1" 200 1628
+INFO:root:                  <dd>33&deg; 24.35'S 149&deg; 34.31'E</dd>
+INFO:root:======Processing html for YXBI
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXBI HTTP/1.1" 200 1674
+INFO:root:                  <dd>25&deg; 30.41'S 152&deg; 03.04'E</dd>
+INFO:root:======Processing html for YXBM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXBM HTTP/1.1" 200 2182
+INFO:root:                  <dd>33&deg; 42.32'S 150&deg; 19.34'E</dd>
+INFO:root:======Processing html for YXBS
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXBS HTTP/1.1" 200 1709
+INFO:root:                  <dd>27&deg; 59.08'S 153&deg; 00.15'E</dd>
+INFO:root:======Processing html for YXBU
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXBU HTTP/1.1" 200 1739
+INFO:root:                  <dd>27&deg; 04.31'S 153&deg; 22.03'E</dd>
+INFO:root:======Processing html for YXBV
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXBV HTTP/1.1" 200 2105
+INFO:root:                  <dd>36&deg; 41.27'S 149&deg; 51.52'E</dd>
+INFO:root:======Processing html for YXBW
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXBW HTTP/1.1" 200 1599
+INFO:root:                  <dd>20&deg; 00.38'S 148&deg; 14.42'E</dd>
+INFO:root:======Processing html for YXCA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXCA HTTP/1.1" 200 1444
+INFO:root:                  <dd>28&deg; 01.10'S 153&deg; 09.59'E</dd>
+INFO:root:======Processing html for YXCB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXCB HTTP/1.1" 200 1666
+INFO:root:                  <dd>35&deg; 20.73'S 149&deg; 06.18'E</dd>
+INFO:root:======Processing html for YXCC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXCC HTTP/1.1" 200 1937
+INFO:root:                  <dd>33&deg; 50.40'S 151&deg; 05.60'E</dd>
+INFO:root:======Processing html for YXCF
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXCF HTTP/1.1" 200 1852
+INFO:root:                  <dd>33&deg; 18.20'S 149&deg; 07.10'E</dd>
+INFO:root:======Processing html for YXCH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXCH HTTP/1.1" 200 1738
+INFO:root:                  <dd>26&deg; 17.47'S 151&deg; 57.44'E</dd>
+INFO:root:======Processing html for YXCI
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXCI HTTP/1.1" 200 1800
+INFO:root:                  <dd>26&deg; 44.46'S 150&deg; 38.09'E</dd>
+INFO:root:======Processing html for YXCM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXCM HTTP/1.1" 200 1843
+INFO:root:                  <dd>36&deg; 14.53'S 149&deg; 07.81'E</dd>
+INFO:root:======Processing html for YXCP
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXCP HTTP/1.1" 200 1760
+INFO:root:                  <dd>34&deg; 04.71'S 150&deg; 48.35'E</dd>
+INFO:root:======Processing html for YXCU
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXCU HTTP/1.1" 200 1728
+INFO:root:                  <dd>28&deg; 02.90'S 152&deg; 26.76'E</dd>
+INFO:root:======Processing html for YXCV
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXCV HTTP/1.1" 200 1606
+INFO:root:                  <dd>20&deg; 32.80'S 147&deg; 50.26'E</dd>
+INFO:root:======Processing html for YXCY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXCY HTTP/1.1" 200 1746
+INFO:root:                  <dd>35&deg; 14.82'S 149&deg; 05.56'E</dd>
+INFO:root:======Processing html for YXDA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXDA HTTP/1.1" 200 1773
+INFO:root:                  <dd>27&deg; 09.95'S 151&deg; 16.67'E</dd>
+INFO:root:======Processing html for YXDB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXDB HTTP/1.1" 200 1752
+INFO:root:                  <dd>32&deg; 14.32'S 148&deg; 37.23'E</dd>
+INFO:root:======Processing html for YXDE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXDE HTTP/1.1" 200 1619
+INFO:root:                  <dd>32&deg; 23.21'S 150&deg; 40.92'E</dd>
+INFO:root:======Processing html for YXDG
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXDG HTTP/1.1" 200 1679
+INFO:root:                  <dd>30&deg; 20.50'S 152&deg; 42.70'E</dd>
+INFO:root:======Processing html for YXDH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXDH HTTP/1.1" 200 1459
+INFO:root:                  <dd>12&deg; 21.17'S 130&deg; 52.90'E</dd>
+INFO:root:======Processing html for YXDN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXDN HTTP/1.1" 200 1722
+INFO:root:                  <dd>32&deg; 00.83'S 149&deg; 23.39'E</dd>
+INFO:root:======Processing html for YXDR
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXDR HTTP/1.1" 200 1741
+INFO:root:                  <dd>25&deg; 35.29'S 151&deg; 17.59'E</dd>
+INFO:root:======Processing html for YXDT
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXDT HTTP/1.1" 200 1601
+INFO:root:                  <dd>23&deg; 51.00'S 151&deg; 14.90'E</dd>
+INFO:root:======Processing html for YXDU
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXDU HTTP/1.1" 200 1646
+INFO:root:                  <dd>27&deg; 29.82'S 153&deg; 23.94'E</dd>
+INFO:root:======Processing html for YXDY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXDY HTTP/1.1" 200 1563
+INFO:root:                  <dd>22&deg; 34.97'S 148&deg; 21.21'E</dd>
+INFO:root:======Processing html for YXEE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXEE HTTP/1.1" 200 1826
+INFO:root:                  <dd>29&deg; 28.25'S 149&deg; 50.43'E</dd>
+INFO:root:======Processing html for YXEG
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXEG HTTP/1.1" 200 1783
+INFO:root:                  <dd>30&deg; 27.21'S 152&deg; 54.12'E</dd>
+INFO:root:======Processing html for YXEI
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXEI HTTP/1.1" 200 1650
+INFO:root:                  <dd>25&deg; 22.94'S 151&deg; 07.52'E</dd>
+INFO:root:======Processing html for YXEM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXEM HTTP/1.1" 200 1486
+INFO:root:                  <dd>37&deg; 03.37'S 149&deg; 54.63'E</dd>
+INFO:root:======Processing html for YXES
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXES HTTP/1.1" 200 1692
+INFO:root:                  <dd>27&deg; 14.43'S 152&deg; 25.07'E</dd>
+INFO:root:======Processing html for YXFH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXFH HTTP/1.1" 200 1773
+INFO:root:                  <dd>32&deg; 04.20'S 115&deg; 50.80'E</dd>
+INFO:root:======Processing html for YXFO
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXFO HTTP/1.1" 200 1751
+INFO:root:                  <dd>33&deg; 23.75'S 148&deg; 00.83'E</dd>
+INFO:root:======Processing html for YXFV
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXFV HTTP/1.1" 200 1813
+INFO:root:                  <dd>32&deg; 55.22'S 151&deg; 43.78'E</dd>
+INFO:root:======Processing html for YXGA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXGA HTTP/1.1" 200 1764
+INFO:root:                  <dd>27&deg; 33.80'S 152&deg; 16.70'E</dd>
+INFO:root:======Processing html for YXGC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXGC HTTP/1.1" 200 1530
+INFO:root:                  <dd>32&deg; 00.89'S 151&deg; 57.60'E</dd>
+INFO:root:======Processing html for YXGE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXGE HTTP/1.1" 200 1754
+INFO:root:                  <dd>29&deg; 43.83'S 151&deg; 44.18'E</dd>
+INFO:root:======Processing html for YXGH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXGH HTTP/1.1" 200 1648
+INFO:root:                  <dd>34&deg; 44.89'S 149&deg; 42.74'E</dd>
+INFO:root:======Processing html for YXGI
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXGI HTTP/1.1" 200 1697
+INFO:root:                  <dd>25&deg; 37.91'S 151&deg; 36.27'E</dd>
+INFO:root:======Processing html for YXGL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXGL HTTP/1.1" 200 1775
+INFO:root:                  <dd>33&deg; 54.37'S 148&deg; 09.69'E</dd>
+INFO:root:======Processing html for YXGO
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXGO HTTP/1.1" 200 1803
+INFO:root:                  <dd>28&deg; 32.88'S 150&deg; 18.08'E</dd>
+INFO:root:======Processing html for YXGP
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXGP HTTP/1.1" 200 1783
+INFO:root:                  <dd>29&deg; 40.42'S 152&deg; 56.45'E</dd>
+INFO:root:======Processing html for YXGR
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXGR HTTP/1.1" 200 1928
+INFO:root:                  <dd>31&deg; 42.24'S 148&deg; 39.91'E</dd>
+INFO:root:======Processing html for YXGS
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXGS HTTP/1.1" 200 1798
+INFO:root:                  <dd>33&deg; 25.30'S 151&deg; 20.39'E</dd>
+INFO:root:======Processing html for YXGT
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXGT HTTP/1.1" 200 1581
+INFO:root:                  <dd>32&deg; 21.46'S 149&deg; 32.33'E</dd>
+INFO:root:======Processing html for YXGU
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXGU HTTP/1.1" 200 2030
+INFO:root:                  <dd>30&deg; 58.97'S 150&deg; 15.13'E</dd>
+INFO:root:======Processing html for YXGW
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXGW HTTP/1.1" 200 1572
+INFO:root:                  <dd>35&deg; 04.10'S 148&deg; 06.15'E</dd>
+INFO:root:======Processing html for YXGY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXGY HTTP/1.1" 200 1751
+INFO:root:                  <dd>26&deg; 11.17'S 152&deg; 39.12'E</dd>
+INFO:root:======Processing html for YXHE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXHE HTTP/1.1" 200 1723
+INFO:root:                  <dd>25&deg; 17.94'S 152&deg; 49.23'E</dd>
+INFO:root:======Processing html for YXHG
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXHG HTTP/1.1" 200 2372
+INFO:root:                  <dd>27&deg; 57.44'S 153&deg; 23.05'E</dd>
+INFO:root:======Processing html for YXHK
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXHK HTTP/1.1" 200 1952
+INFO:root:                  <dd>33&deg; 42.19'S 151&deg; 06.77'E</dd>
+INFO:root:======Processing html for YXHS
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXHS HTTP/1.1" 200 1684
+INFO:root:                  <dd>26&deg; 44.84'S 153&deg; 06.82'E</dd>
+INFO:root:======Processing html for YXIG
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXIG HTTP/1.1" 200 1988
+INFO:root:                  <dd>29&deg; 51.84'S 150&deg; 34.78'E</dd>
+INFO:root:======Processing html for YXIP
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXIP HTTP/1.1" 200 1697
+INFO:root:                  <dd>27&deg; 37.26'S 152&deg; 45.95'E</dd>
+INFO:root:======Processing html for YXIV
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXIV HTTP/1.1" 200 2003
+INFO:root:                  <dd>29&deg; 46.30'S 151&deg; 07.90'E</dd>
+INFO:root:======Processing html for YXIW
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXIW HTTP/1.1" 200 1745
+INFO:root:                  <dd>28&deg; 25.04'S 151&deg; 03.72'E</dd>
+INFO:root:======Processing html for YXJD
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXJD HTTP/1.1" 200 1642
+INFO:root:                  <dd>36&deg; 25.08'S 148&deg; 36.91'E</dd>
+INFO:root:======Processing html for YXJH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXJH HTTP/1.1" 200 1813
+INFO:root:                  <dd>32&deg; 55.44'S 151&deg; 41.60'E</dd>
+INFO:root:======Processing html for YXJN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXJN HTTP/1.1" 200 1685
+INFO:root:                  <dd>26&deg; 46.88'S 151&deg; 06.29'E</dd>
+INFO:root:======Processing html for YXKI
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXKI HTTP/1.1" 200 1817
+INFO:root:                  <dd>26&deg; 56.85'S 152&deg; 33.96'E</dd>
+INFO:root:======Processing html for YXKN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXKN HTTP/1.1" 200 1987
+INFO:root:                  <dd>26&deg; 31.95'S 151&deg; 50.38'E</dd>
+INFO:root:======Processing html for YXKO
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXKO HTTP/1.1" 200 1793
+INFO:root:                  <dd>28&deg; 37.70'S 153&deg; 00.10'E</dd>
+INFO:root:======Processing html for YXKP
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXKP HTTP/1.1" 200 1694
+INFO:root:                  <dd>27&deg; 24.84'S 153&deg; 02.21'E</dd>
+INFO:root:======Processing html for YXKW
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXKW HTTP/1.1" 200 1730
+INFO:root:                  <dd>23&deg; 34.30'S 148&deg; 52.70'E</dd>
+INFO:root:======Processing html for YXLA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXLA HTTP/1.1" 200 1636
+INFO:root:                  <dd>27&deg; 37.96'S 152&deg; 23.96'E</dd>
+INFO:root:======Processing html for YXLE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXLE HTTP/1.1" 200 1685
+INFO:root:                  <dd>34&deg; 33.60'S 146&deg; 24.30'E</dd>
+INFO:root:======Processing html for YXLG
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXLG HTTP/1.1" 200 1768
+INFO:root:                  <dd>33&deg; 29.96'S 150&deg; 07.73'E</dd>
+INFO:root:======Processing html for YXLL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXLL HTTP/1.1" 200 1782
+INFO:root:                  <dd>33&deg; 55.21'S 150&deg; 55.83'E</dd>
+INFO:root:======Processing html for YXLM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXLM HTTP/1.1" 200 1577
+INFO:root:                  <dd>27&deg; 37.43'S 153&deg; 23.02'E</dd>
+INFO:root:======Processing html for YXLR
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXLR HTTP/1.1" 200 1641
+INFO:root:                  <dd>27&deg; 52.76'S 151&deg; 15.79'E</dd>
+INFO:root:======Processing html for YXMA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXMA HTTP/1.1" 200 1896
+INFO:root:                  <dd>29&deg; 27.20'S 153&deg; 12.10'E</dd>
+INFO:root:======Processing html for YXMC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXMC HTTP/1.1" 200 1643
+INFO:root:                  <dd>27&deg; 36.56'S 153&deg; 21.39'E</dd>
+INFO:root:======Processing html for YXMD
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXMD HTTP/1.1" 200 1600
+INFO:root:                  <dd>33&deg; 45.90'S 150&deg; 49.90'E</dd>
+INFO:root:======Processing html for YXMG
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXMG HTTP/1.1" 200 1647
+INFO:root:                  <dd>26&deg; 14.31'S 151&deg; 57.06'E</dd>
+INFO:root:======Processing html for YXMH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXMH HTTP/1.1" 200 1997
+INFO:root:                  <dd>32&deg; 36.15'S 149&deg; 35.28'E</dd>
+INFO:root:======Processing html for YXMK
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXMK HTTP/1.1" 200 1754
+INFO:root:                  <dd>30&deg; 42.63'S 152&deg; 55.27'E</dd>
+INFO:root:======Processing html for YXMP
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXMP HTTP/1.1" 200 1613
+INFO:root:                  <dd>25&deg; 10.90'S 151&deg; 38.60'E</dd>
+INFO:root:======Processing html for YXMS
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXMS HTTP/1.1" 200 1685
+INFO:root:                  <dd>26&deg; 39.49'S 150&deg; 11.78'E</dd>
+INFO:root:======Processing html for YXMT
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXMT HTTP/1.1" 200 1777
+INFO:root:                  <dd>32&deg; 45.58'S 151&deg; 36.27'E</dd>
+INFO:root:======Processing html for YXMV
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXMV HTTP/1.1" 200 2014
+INFO:root:                  <dd>33&deg; 41.11'S 151&deg; 18.49'E</dd>
+INFO:root:======Processing html for YXMW
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXMW HTTP/1.1" 200 1568
+INFO:root:                  <dd>32&deg; 08.60'S 150&deg; 21.65'E</dd>
+INFO:root:======Processing html for YXMY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXMY HTTP/1.1" 200 1664
+INFO:root:                  <dd>35&deg; 54.24'S 150&deg; 04.17'E</dd>
+INFO:root:======Processing html for YXNA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXNA HTTP/1.1" 200 1888
+INFO:root:                  <dd>26&deg; 37.26'S 152&deg; 57.06'E</dd>
+INFO:root:======Processing html for YXNE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXNE HTTP/1.1" 200 1695
+INFO:root:                  <dd>33&deg; 45.56'S 150&deg; 42.89'E</dd>
+INFO:root:======Processing html for YXNH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXNH HTTP/1.1" 200 1913
+INFO:root:                  <dd>30&deg; 19.55'S 149&deg; 46.63'E</dd>
+INFO:root:======Processing html for YXNL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXNL HTTP/1.1" 200 1720
+INFO:root:                  <dd>33&deg; 45.05'S 151&deg; 14.02'E</dd>
+INFO:root:======Processing html for YXNN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXNN HTTP/1.1" 200 1758
+INFO:root:                  <dd>26&deg; 40.00'S 152&deg; 00.50'E</dd>
+INFO:root:======Processing html for YXNS
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXNS HTTP/1.1" 200 2165
+INFO:root:                  <dd>33&deg; 49.27'S 151&deg; 11.52'E</dd>
+INFO:root:======Processing html for YXNW
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXNW HTTP/1.1" 200 1799
+INFO:root:                  <dd>34&deg; 52.19'S 150&deg; 35.73'E</dd>
+INFO:root:======Processing html for YXNY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXNY HTTP/1.1" 200 1698
+INFO:root:                  <dd>32&deg; 42.96'S 152&deg; 09.26'E</dd>
+INFO:root:======Processing html for YXOF
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXOF HTTP/1.1" 200 2198
+INFO:root:                  <dd>30&deg; 19.01'S 153&deg; 05.59'E</dd>
+INFO:root:======Processing html for YXOG
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXOG HTTP/1.1" 200 1678
+INFO:root:                  <dd>33&deg; 18.99'S 149&deg; 05.56'E</dd>
+INFO:root:======Processing html for YXOH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXOH HTTP/1.1" 200 1726
+INFO:root:                  <dd>31&deg; 49.31'S 149&deg; 42.60'E</dd>
+INFO:root:======Processing html for YXOK
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXOK HTTP/1.1" 200 1994
+INFO:root:                  <dd>34&deg; 26.96'S 149&deg; 28.15'E</dd>
+INFO:root:======Processing html for YXOL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXOL HTTP/1.1" 200 1793
+INFO:root:                  <dd>33&deg; 04.90'S 147&deg; 08.90'E</dd>
+INFO:root:======Processing html for YXOM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXOM HTTP/1.1" 200 1598
+INFO:root:                  <dd>36&deg; 54.83'S 149&deg; 14.48'E</dd>
+INFO:root:======Processing html for YXOO
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXOO HTTP/1.1" 200 1631
+INFO:root:                  <dd>34&deg; 38.04'S 148&deg; 00.76'E</dd>
+INFO:root:======Processing html for YXOR
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXOR HTTP/1.1" 200 1589
+INFO:root:                  <dd>28&deg; 13.89'S 153&deg; 08.10'E</dd>
+INFO:root:======Processing html for YXOT
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXOT HTTP/1.1" 200 1639
+INFO:root:                  <dd>24&deg; 52.00'S 151&deg; 07.20'E</dd>
+INFO:root:======Processing html for YXOW
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXOW HTTP/1.1" 200 1730
+INFO:root:                  <dd>34&deg; 29.20'S 150&deg; 25.37'E</dd>
+INFO:root:======Processing html for YXPH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXPH HTTP/1.1" 200 1624
+INFO:root:                  <dd>32&deg; 44.17'S 148&deg; 11.99'E</dd>
+INFO:root:======Processing html for YXPI
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXPI HTTP/1.1" 200 1637
+INFO:root:                  <dd>28&deg; 00.80'S 153&deg; 23.80'E</dd>
+INFO:root:======Processing html for YXPK
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXPK HTTP/1.1" 200 1836
+INFO:root:                  <dd>33&deg; 09.19'S 148&deg; 10.27'E</dd>
+INFO:root:======Processing html for YXPM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXPM HTTP/1.1" 200 1763
+INFO:root:                  <dd>31&deg; 27.13'S 152&deg; 52.60'E</dd>
+INFO:root:======Processing html for YXPN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXPN HTTP/1.1" 200 1598
+INFO:root:                  <dd>20&deg; 23.90'S 148&deg; 35.10'E</dd>
+INFO:root:======Processing html for YXPO
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXPO HTTP/1.1" 200 1825
+INFO:root:                  <dd>23&deg; 08.10'S 150&deg; 44.90'E</dd>
+INFO:root:======Processing html for YXQC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXQC HTTP/1.1" 200 1778
+INFO:root:                  <dd>27&deg; 29.04'S 153&deg; 01.61'E</dd>
+INFO:root:======Processing html for YXQE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXQE HTTP/1.1" 200 1817
+INFO:root:                  <dd>31&deg; 58.13'S 115&deg; 49.00'E</dd>
+INFO:root:======Processing html for YXQU
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXQU HTTP/1.1" 200 1558
+INFO:root:                  <dd>31&deg; 30.06'S 150&deg; 40.59'E</dd>
+INFO:root:======Processing html for YXRH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXRH HTTP/1.1" 200 1731
+INFO:root:                  <dd>27&deg; 16.42'S 150&deg; 27.51'E</dd>
+INFO:root:======Processing html for YXRK
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXRK HTTP/1.1" 200 1579
+INFO:root:                  <dd>23&deg; 22.76'S 150&deg; 29.42'E</dd>
+INFO:root:======Processing html for YXRN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXRN HTTP/1.1" 200 1946
+INFO:root:                  <dd>32&deg; 48.24'S 149&deg; 58.50'E</dd>
+INFO:root:======Processing html for YXRP
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXRP HTTP/1.1" 200 2056
+INFO:root:                  <dd>31&deg; 57.22'S 115&deg; 51.99'E</dd>
+INFO:root:======Processing html for YXRU
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXRU HTTP/1.1" 200 1686
+INFO:root:                  <dd>27&deg; 39.48'S 153&deg; 22.04'E</dd>
+INFO:root:======Processing html for YXSA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXSA HTTP/1.1" 200 1754
+INFO:root:                  <dd>33&deg; 44.00'S 151&deg; 06.00'E</dd>
+INFO:root:======Processing html for YXSB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXSB HTTP/1.1" 200 1758
+INFO:root:                  <dd>35&deg; 22.72'S 149&deg; 10.27'E</dd>
+INFO:root:======Processing html for YXSC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXSC HTTP/1.1" 200 1685
+INFO:root:                  <dd>32&deg; 03.01'S 150&deg; 52.66'E</dd>
+INFO:root:======Processing html for YXSE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXSE HTTP/1.1" 200 2016
+INFO:root:                  <dd>34&deg; 53.76'S 150&deg; 35.40'E</dd>
+INFO:root:======Processing html for YXSG
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXSG HTTP/1.1" 200 1792
+INFO:root:                  <dd>33&deg; 58.02'S 151&deg; 07.96'E</dd>
+INFO:root:======Processing html for YXSH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXSH HTTP/1.1" 200 1781
+INFO:root:                  <dd>34&deg; 33.60'S 150&deg; 50.50'E</dd>
+INFO:root:======Processing html for YXSI
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXSI HTTP/1.1" 200 1864
+INFO:root:                  <dd>32&deg; 34.01'S 151&deg; 11.20'E</dd>
+INFO:root:======Processing html for YXSN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXSN HTTP/1.1" 200 2097
+INFO:root:                  <dd>33&deg; 55.17'S 151&deg; 14.36'E</dd>
+INFO:root:======Processing html for YXST
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXST HTTP/1.1" 200 1823
+INFO:root:                  <dd>28&deg; 39.60'S 151&deg; 55.67'E</dd>
+INFO:root:======Processing html for YXTA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXTA HTTP/1.1" 200 1792
+INFO:root:                  <dd>27&deg; 11.00'S 153&deg; 22.23'E</dd>
+INFO:root:======Processing html for YXTD
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXTD HTTP/1.1" 200 1628
+INFO:root:                  <dd>32&deg; 55.30'S 147&deg; 42.40'E</dd>
+INFO:root:======Processing html for YXTE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXTE HTTP/1.1" 200 1836
+INFO:root:                  <dd>29&deg; 02.88'S 152&deg; 00.99'E</dd>
+INFO:root:======Processing html for YXTL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXTL HTTP/1.1" 200 1638
+INFO:root:                  <dd>19&deg; 19.22'S 146&deg; 45.63'E</dd>
+INFO:root:======Processing html for YXTM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXTM HTTP/1.1" 200 1763
+INFO:root:                  <dd>27&deg; 56.18'S 153&deg; 10.89'E</dd>
+INFO:root:======Processing html for YXTO
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXTO HTTP/1.1" 200 1689
+INFO:root:                  <dd>27&deg; 34.23'S 151&deg; 56.76'E</dd>
+INFO:root:======Processing html for YXTV
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXTV HTTP/1.1" 200 1779
+INFO:root:                  <dd>28&deg; 15.83'S 153&deg; 33.98'E</dd>
+INFO:root:======Processing html for YXTW
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXTW HTTP/1.1" 200 1912
+INFO:root:                  <dd>31&deg; 04.33'S 150&deg; 55.60'E</dd>
+INFO:root:======Processing html for YXTX
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXTX HTTP/1.1" 200 1924
+INFO:root:                  <dd>28&deg; 51.34'S 151&deg; 10.77'E</dd>
+INFO:root:======Processing html for YXUA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXUA HTTP/1.1" 200 1783
+INFO:root:                  <dd>35&deg; 19.25'S 150&deg; 26.36'E</dd>
+INFO:root:======Processing html for YXUH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXUH HTTP/1.1" 200 1673
+INFO:root:                  <dd>33&deg; 45.97'S 151&deg; 06.96'E</dd>
+INFO:root:======Processing html for YXUS
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXUS HTTP/1.1" 200 1893
+INFO:root:                  <dd>32&deg; 15.90'S 150&deg; 53.90'E</dd>
+INFO:root:======Processing html for YXVL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXVL HTTP/1.1" 200 1650
+INFO:root:                  <dd>30&deg; 38.86'S 152&deg; 50.88'E</dd>
+INFO:root:======Processing html for YXWA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXWA HTTP/1.1" 200 1725
+INFO:root:                  <dd>28&deg; 13.43'S 152&deg; 01.00'E</dd>
+INFO:root:======Processing html for YXWG
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXWG HTTP/1.1" 200 1751
+INFO:root:                  <dd>35&deg; 07.14'S 147&deg; 21.43'E</dd>
+INFO:root:======Processing html for YXWL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXWL HTTP/1.1" 200 1791
+INFO:root:                  <dd>34&deg; 25.45'S 150&deg; 52.94'E</dd>
+INFO:root:======Processing html for YXWM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXWM HTTP/1.1" 200 1978
+INFO:root:                  <dd>33&deg; 48.14'S 150&deg; 59.61'E</dd>
+INFO:root:======Processing html for YXWS
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXWS HTTP/1.1" 200 2059
+INFO:root:                  <dd>33&deg; 48.16'S 150&deg; 59.40'E</dd>
+INFO:root:======Processing html for YXWT
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXWT HTTP/1.1" 200 1648
+INFO:root:                  <dd>32&deg; 32.93'S 148&deg; 57.00'E</dd>
+INFO:root:======Processing html for YXWW
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXWW HTTP/1.1" 200 1959
+INFO:root:                  <dd>30&deg; 13.54'S 149&deg; 26.85'E</dd>
+INFO:root:======Processing html for YXWY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXWY HTTP/1.1" 200 1826
+INFO:root:                  <dd>33&deg; 15.62'S 151&deg; 28.84'E</dd>
+INFO:root:======Processing html for YXYA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXYA HTTP/1.1" 200 1686
+INFO:root:                  <dd>34&deg; 51.30'S 148&deg; 54.50'E</dd>
+INFO:root:======Processing html for YXYO
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=YXYO HTTP/1.1" 200 1579
+INFO:root:                  <dd>34&deg; 19.26'S 148&deg; 17.29'E</dd>
+INFO:root:======Processing html for OZCRM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZCRM HTTP/1.1" 200 1984
+INFO:root:                  <dd>34&deg; 26.96'S 149&deg; 28.15'E</dd>
+INFO:root:======Processing html for OZHAA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAA HTTP/1.1" 200 1707
+INFO:root:                  <dd>32&deg; 24.07'S 151&deg; 44.75'E</dd>
+INFO:root:======Processing html for OZHAB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAB HTTP/1.1" 200 1631
+INFO:root:                  <dd>13&deg; 14.17'S 131&deg; 06.48'E</dd>
+INFO:root:======Processing html for OZHAC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAC HTTP/1.1" 200 1675
+INFO:root:                  <dd>24&deg; 10.96'S 151&deg; 52.96'E</dd>
+INFO:root:======Processing html for OZHAE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAE HTTP/1.1" 200 1712
+INFO:root:                  <dd>34&deg; 12.58'S 150&deg; 47.49'E</dd>
+INFO:root:======Processing html for OZHAF
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAF HTTP/1.1" 200 1840
+INFO:root:                  <dd>34&deg; 13.11'S 150&deg; 43.03'E</dd>
+INFO:root:======Processing html for OZHAG
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAG HTTP/1.1" 200 1750
+INFO:root:                  <dd>33&deg; 49.78'S 150&deg; 48.69'E</dd>
+INFO:root:======Processing html for OZHAH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAH HTTP/1.1" 200 1696
+INFO:root:                  <dd>30&deg; 57.10'S 149&deg; 03.91'E</dd>
+INFO:root:======Processing html for OZHAI
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAI HTTP/1.1" 200 1623
+INFO:root:                  <dd>26&deg; 52.70'S 152&deg; 06.10'E</dd>
+INFO:root:======Processing html for OZHAK
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAK HTTP/1.1" 200 1455
+INFO:root:                  <dd>30&deg; 37.88'S 150&deg; 08.47'E</dd>
+INFO:root:======Processing html for OZHAL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAL HTTP/1.1" 200 1768
+INFO:root:                  <dd>33&deg; 37.70'S 150&deg; 18.40'E</dd>
+INFO:root:======Processing html for OZHAN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAN HTTP/1.1" 200 1593
+INFO:root:                  <dd>33&deg; 44.69'S 150&deg; 59.44'E</dd>
+INFO:root:======Processing html for OZHAO
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAO HTTP/1.1" 200 1687
+INFO:root:                  <dd>24&deg; 23.60'S 150&deg; 30.70'E</dd>
+INFO:root:======Processing html for OZHAQ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAQ HTTP/1.1" 200 1788
+INFO:root:                  <dd>33&deg; 55.60'S 151&deg; 01.40'E</dd>
+INFO:root:======Processing html for OZHAR
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAR HTTP/1.1" 200 1806
+INFO:root:                  <dd>28&deg; 36.56'S 150&deg; 21.14'E</dd>
+INFO:root:======Processing html for OZHAS
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAS HTTP/1.1" 200 1533
+INFO:root:                  <dd>32&deg; 24.33'S 152&deg; 12.20'E</dd>
+INFO:root:======Processing html for OZHAU
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAU HTTP/1.1" 200 1381
+INFO:root:                  <dd>22&deg; 02.40'S 148&deg; 15.68'E</dd>
+INFO:root:======Processing html for OZHAV
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAV HTTP/1.1" 200 1528
+INFO:root:                  <dd>34&deg; 48.49'S 150&deg; 00.40'E</dd>
+INFO:root:======Processing html for OZHAW
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAW HTTP/1.1" 200 1878
+INFO:root:                  <dd>27&deg; 24.07'S 153&deg; 09.87'E</dd>
+INFO:root:======Processing html for OZHAX
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAX HTTP/1.1" 200 1641
+INFO:root:                  <dd>34&deg; 26.53'S 148&deg; 42.29'E</dd>
+INFO:root:======Processing html for OZHAY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAY HTTP/1.1" 200 1560
+INFO:root:                  <dd>35&deg; 26.89'S 149&deg; 48.08'E</dd>
+INFO:root:======Processing html for OZHAZ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHAZ HTTP/1.1" 200 1761
+INFO:root:                  <dd>29&deg; 36.39'S 153&deg; 19.92'E</dd>
+INFO:root:======Processing html for OZHBA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBA HTTP/1.1" 200 1533
+INFO:root:                  <dd>35&deg; 15.24'S 149&deg; 26.68'E</dd>
+INFO:root:======Processing html for OZHBB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBB HTTP/1.1" 200 1806
+INFO:root:                  <dd>28&deg; 26.20'S 153&deg; 28.07'E</dd>
+INFO:root:======Processing html for OZHBC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBC HTTP/1.1" 200 1641
+INFO:root:                  <dd>35&deg; 40.24'S 149&deg; 04.13'E</dd>
+INFO:root:======Processing html for OZHBD
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBD HTTP/1.1" 200 1891
+INFO:root:                  <dd>35&deg; 29.70'S 149&deg; 17.10'E</dd>
+INFO:root:======Processing html for OZHBF
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBF HTTP/1.1" 200 1645
+INFO:root:                  <dd>36&deg; 26.02'S 148&deg; 20.01'E</dd>
+INFO:root:======Processing html for OZHBH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBH HTTP/1.1" 200 1577
+INFO:root:                  <dd>27&deg; 34.10'S 153&deg; 20.10'E</dd>
+INFO:root:======Processing html for OZHBI
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBI HTTP/1.1" 200 1915
+INFO:root:                  <dd>33&deg; 32.10'S 149&deg; 14.90'E</dd>
+INFO:root:======Processing html for OZHBJ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBJ HTTP/1.1" 200 1630
+INFO:root:                  <dd>24&deg; 56.25'S 148&deg; 07.09'E</dd>
+INFO:root:======Processing html for OZHBK
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBK HTTP/1.1" 200 1648
+INFO:root:                  <dd>26&deg; 25.50'S 152&deg; 54.50'E</dd>
+INFO:root:======Processing html for OZHBL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBL HTTP/1.1" 200 1637
+INFO:root:                  <dd>27&deg; 32.06'S 153&deg; 15.70'E</dd>
+INFO:root:======Processing html for OZHBM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBM HTTP/1.1" 200 1620
+INFO:root:                  <dd>28&deg; 41.26'S 152&deg; 22.31'E</dd>
+INFO:root:======Processing html for OZHBN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBN HTTP/1.1" 200 1911
+INFO:root:                  <dd>12&deg; 45.11'S 130&deg; 22.95'E</dd>
+INFO:root:======Processing html for OZHBO
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBO HTTP/1.1" 200 1614
+INFO:root:                  <dd>12&deg; 46.24'S 130&deg; 31.78'E</dd>
+INFO:root:======Processing html for OZHBP
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBP HTTP/1.1" 200 1699
+INFO:root:                  <dd>23&deg; 39.30'S 149&deg; 20.10'E</dd>
+INFO:root:======Processing html for OZHBQ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBQ HTTP/1.1" 200 1770
+INFO:root:                  <dd>23&deg; 50.90'S 150&deg; 15.80'E</dd>
+INFO:root:======Processing html for OZHBR
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBR HTTP/1.1" 200 1680
+INFO:root:                  <dd>29&deg; 11.79'S 153&deg; 23.03'E</dd>
+INFO:root:======Processing html for OZHBS
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBS HTTP/1.1" 200 1664
+INFO:root:                  <dd>23&deg; 31.00'S 148&deg; 09.20'E</dd>
+INFO:root:======Processing html for OZHBT
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBT HTTP/1.1" 200 1739
+INFO:root:                  <dd>23&deg; 52.55'S 151&deg; 22.31'E</dd>
+INFO:root:======Processing html for OZHBU
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBU HTTP/1.1" 200 1686
+INFO:root:                  <dd>29&deg; 31.16'S 152&deg; 18.65'E</dd>
+INFO:root:======Processing html for OZHBV
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBV HTTP/1.1" 200 1895
+INFO:root:                  <dd>27&deg; 58.19'S 153&deg; 25.63'E</dd>
+INFO:root:======Processing html for OZHBX
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBX HTTP/1.1" 200 1667
+INFO:root:                  <dd>26&deg; 10.70'S 152&deg; 04.00'E</dd>
+INFO:root:======Processing html for OZHBY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBY HTTP/1.1" 200 1889
+INFO:root:                  <dd>23&deg; 11.00'S 150&deg; 56.50'E</dd>
+INFO:root:======Processing html for OZHBZ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHBZ HTTP/1.1" 200 1578
+INFO:root:                  <dd>13&deg; 58.33'S 131&deg; 24.51'E</dd>
+INFO:root:======Processing html for OZHCA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCA HTTP/1.1" 200 1832
+INFO:root:                  <dd>25&deg; 30.30'S 153&deg; 07.77'E</dd>
+INFO:root:======Processing html for OZHCB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCB HTTP/1.1" 200 1528
+INFO:root:                  <dd>34&deg; 46.57'S 150&deg; 47.34'E</dd>
+INFO:root:======Processing html for OZHCC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCC HTTP/1.1" 200 1737
+INFO:root:                  <dd>36&deg; 22.64'S 148&deg; 22.55'E</dd>
+INFO:root:======Processing html for OZHCD
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCD HTTP/1.1" 200 1679
+INFO:root:                  <dd>34&deg; 10.82'S 151&deg; 02.30'E</dd>
+INFO:root:======Processing html for OZHCE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCE HTTP/1.1" 200 1528
+INFO:root:                  <dd>32&deg; 54.43'S 150&deg; 44.85'E</dd>
+INFO:root:======Processing html for OZHCH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCH HTTP/1.1" 200 1739
+INFO:root:                  <dd>35&deg; 06.90'S 147&deg; 21.20'E</dd>
+INFO:root:======Processing html for OZHCI
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCI HTTP/1.1" 200 1613
+INFO:root:                  <dd>26&deg; 39.77'S 152&deg; 27.73'E</dd>
+INFO:root:======Processing html for OZHCJ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCJ HTTP/1.1" 200 1625
+INFO:root:                  <dd>23&deg; 19.40'S 150&deg; 47.40'E</dd>
+INFO:root:======Processing html for OZHCK
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCK HTTP/1.1" 200 1620
+INFO:root:                  <dd>25&deg; 23.43'S 153&deg; 01.74'E</dd>
+INFO:root:======Processing html for OZHCL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCL HTTP/1.1" 200 1587
+INFO:root:                  <dd>27&deg; 38.17'S 153&deg; 22.20'E</dd>
+INFO:root:======Processing html for OZHCM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCM HTTP/1.1" 200 1782
+INFO:root:                  <dd>27&deg; 20.95'S 153&deg; 25.35'E</dd>
+INFO:root:======Processing html for OZHCN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCN HTTP/1.1" 200 1651
+INFO:root:                  <dd>26&deg; 04.98'S 152&deg; 14.58'E</dd>
+INFO:root:======Processing html for OZHCO
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCO HTTP/1.1" 200 1733
+INFO:root:                  <dd>34&deg; 24.81'S 150&deg; 48.90'E</dd>
+INFO:root:======Processing html for OZHCP
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCP HTTP/1.1" 200 1537
+INFO:root:                  <dd>26&deg; 32.58'S 152&deg; 17.90'E</dd>
+INFO:root:======Processing html for OZHCQ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCQ HTTP/1.1" 200 1612
+INFO:root:                  <dd>26&deg; 01.45'S 151&deg; 23.02'E</dd>
+INFO:root:======Processing html for OZHCS
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCS HTTP/1.1" 200 1604
+INFO:root:                  <dd>25&deg; 34.90'S 151&deg; 17.98'E</dd>
+INFO:root:======Processing html for OZHCT
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCT HTTP/1.1" 200 1662
+INFO:root:                  <dd>27&deg; 19.80'S 152&deg; 45.24'E</dd>
+INFO:root:======Processing html for OZHCU
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCU HTTP/1.1" 200 1587
+INFO:root:                  <dd>27&deg; 22.65'S 152&deg; 49.00'E</dd>
+INFO:root:======Processing html for OZHCV
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCV HTTP/1.1" 200 1596
+INFO:root:                  <dd>24&deg; 19.80'S 151&deg; 33.65'E</dd>
+INFO:root:======Processing html for OZHCW
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCW HTTP/1.1" 200 1609
+INFO:root:                  <dd>22&deg; 48.37'S 148&deg; 42.05'E</dd>
+INFO:root:======Processing html for OZHCY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCY HTTP/1.1" 200 1657
+INFO:root:                  <dd>23&deg; 49.00'S 150&deg; 58.30'E</dd>
+INFO:root:======Processing html for OZHCZ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHCZ HTTP/1.1" 200 1616
+INFO:root:                  <dd>25&deg; 01.04'S 147&deg; 56.96'E</dd>
+INFO:root:======Processing html for OZHDA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDA HTTP/1.1" 200 1695
+INFO:root:                  <dd>23&deg; 38.33'S 150&deg; 23.04'E</dd>
+INFO:root:======Processing html for OZHDC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDC HTTP/1.1" 200 1679
+INFO:root:                  <dd>33&deg; 26.93'S 151&deg; 04.39'E</dd>
+INFO:root:======Processing html for OZHDD
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDD HTTP/1.1" 200 1641
+INFO:root:                  <dd>33&deg; 36.00'S 150&deg; 15.90'E</dd>
+INFO:root:======Processing html for OZHDE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDE HTTP/1.1" 200 1569
+INFO:root:                  <dd>23&deg; 46.43'S 151&deg; 19.61'E</dd>
+INFO:root:======Processing html for OZHDG
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDG HTTP/1.1" 200 1602
+INFO:root:                  <dd>27&deg; 18.62'S 152&deg; 37.15'E</dd>
+INFO:root:======Processing html for OZHDH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDH HTTP/1.1" 200 1631
+INFO:root:                  <dd>26&deg; 45.77'S 152&deg; 50.91'E</dd>
+INFO:root:======Processing html for OZHDI
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDI HTTP/1.1" 200 1625
+INFO:root:                  <dd>33&deg; 21.20'S 150&deg; 05.90'E</dd>
+INFO:root:======Processing html for OZHDK
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDK HTTP/1.1" 200 1672
+INFO:root:                  <dd>32&deg; 54.50'S 148&deg; 03.20'E</dd>
+INFO:root:======Processing html for OZHDL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDL HTTP/1.1" 200 1833
+INFO:root:                  <dd>33&deg; 24.20'S 150&deg; 06.30'E</dd>
+INFO:root:======Processing html for OZHDM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDM HTTP/1.1" 200 1549
+INFO:root:                  <dd>32&deg; 14.36'S 149&deg; 44.73'E</dd>
+INFO:root:======Processing html for OZHDN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDN HTTP/1.1" 200 1628
+INFO:root:                  <dd>33&deg; 39.32'S 147&deg; 24.02'E</dd>
+INFO:root:======Processing html for OZHDO
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDO HTTP/1.1" 200 1508
+INFO:root:                  <dd>33&deg; 02.22'S 149&deg; 24.80'E</dd>
+INFO:root:======Processing html for OZHDP
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDP HTTP/1.1" 200 1650
+INFO:root:                  <dd>32&deg; 14.50'S 147&deg; 21.00'E</dd>
+INFO:root:======Processing html for OZHDQ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDQ HTTP/1.1" 200 1675
+INFO:root:                  <dd>34&deg; 14.49'S 150&deg; 49.29'E</dd>
+INFO:root:======Processing html for OZHDR
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDR HTTP/1.1" 200 1533
+INFO:root:                  <dd>33&deg; 05.30'S 148&deg; 51.60'E</dd>
+INFO:root:======Processing html for OZHDS
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDS HTTP/1.1" 200 1603
+INFO:root:                  <dd>33&deg; 25.80'S 148&deg; 22.20'E</dd>
+INFO:root:======Processing html for OZHDU
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDU HTTP/1.1" 200 1593
+INFO:root:                  <dd>33&deg; 02.20'S 149&deg; 24.80'E</dd>
+INFO:root:======Processing html for OZHDV
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDV HTTP/1.1" 200 1738
+INFO:root:                  <dd>23&deg; 04.70'S 150&deg; 53.20'E</dd>
+INFO:root:======Processing html for OZHDW
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDW HTTP/1.1" 200 1652
+INFO:root:                  <dd>33&deg; 16.17'S 150&deg; 03.51'E</dd>
+INFO:root:======Processing html for OZHDX
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDX HTTP/1.1" 200 1827
+INFO:root:                  <dd>33&deg; 43.68'S 150&deg; 18.06'E</dd>
+INFO:root:======Processing html for OZHDY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDY HTTP/1.1" 200 1622
+INFO:root:                  <dd>14&deg; 26.12'S 132&deg; 16.25'E</dd>
+INFO:root:======Processing html for OZHDZ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHDZ HTTP/1.1" 200 1736
+INFO:root:                  <dd>33&deg; 25.61'S 151&deg; 02.16'E</dd>
+INFO:root:======Processing html for OZHEA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHEA HTTP/1.1" 200 1647
+INFO:root:                  <dd>32&deg; 14.47'S 152&deg; 28.26'E</dd>
+INFO:root:======Processing html for OZHEB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHEB HTTP/1.1" 200 1634
+INFO:root:                  <dd>34&deg; 55.98'S 150&deg; 31.24'E</dd>
+INFO:root:======Processing html for OZHEG
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHEG HTTP/1.1" 200 1820
+INFO:root:                  <dd>23&deg; 30.00'S 152&deg; 05.00'E</dd>
+INFO:root:======Processing html for OZHEH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHEH HTTP/1.1" 200 1720
+INFO:root:                  <dd>24&deg; 57.60'S 153&deg; 18.89'E</dd>
+INFO:root:======Processing html for OZHEJ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHEJ HTTP/1.1" 200 1799
+INFO:root:                  <dd>32&deg; 22.07'S 152&deg; 30.00'E</dd>
+INFO:root:======Processing html for OZHEK
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHEK HTTP/1.1" 200 1652
+INFO:root:                  <dd>26&deg; 37.38'S 152&deg; 57.57'E</dd>
+INFO:root:======Processing html for OZHEL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHEL HTTP/1.1" 200 1511
+INFO:root:                  <dd>26&deg; 22.20'S 152&deg; 51.75'E</dd>
+INFO:root:======Processing html for OZHEO
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHEO HTTP/1.1" 200 1654
+INFO:root:                  <dd>27&deg; 13.52'S 153&deg; 06.51'E</dd>
+INFO:root:======Processing html for OZHEP
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHEP HTTP/1.1" 200 1817
+INFO:root:                  <dd>34&deg; 49.43'S 148&deg; 54.40'E</dd>
+INFO:root:======Processing html for OZHEQ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHEQ HTTP/1.1" 200 1612
+INFO:root:                  <dd>34&deg; 06.20'S 151&deg; 03.44'E</dd>
+INFO:root:======Processing html for OZHER
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHER HTTP/1.1" 200 1472
+INFO:root:                  <dd>24&deg; 37.40'S 151&deg; 55.00'E</dd>
+INFO:root:======Processing html for OZHES
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHES HTTP/1.1" 200 1647
+INFO:root:                  <dd>27&deg; 17.74'S 152&deg; 38.94'E</dd>
+INFO:root:======Processing html for OZHET
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHET HTTP/1.1" 200 1671
+INFO:root:                  <dd>23&deg; 03.50'S 150&deg; 46.00'E</dd>
+INFO:root:======Processing html for OZHEU
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHEU HTTP/1.1" 200 1568
+INFO:root:                  <dd>22&deg; 44.50'S 150&deg; 39.20'E</dd>
+INFO:root:======Processing html for OZHEX
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHEX HTTP/1.1" 200 1721
+INFO:root:                  <dd>29&deg; 40.62'S 153&deg; 19.78'E</dd>
+INFO:root:======Processing html for OZHEZ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHEZ HTTP/1.1" 200 1954
+INFO:root:                  <dd>33&deg; 26.90'S 151&deg; 08.68'E</dd>
+INFO:root:======Processing html for OZHFA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFA HTTP/1.1" 200 1620
+INFO:root:                  <dd>30&deg; 12.40'S 153&deg; 16.04'E</dd>
+INFO:root:======Processing html for OZHFC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFC HTTP/1.1" 200 1589
+INFO:root:                  <dd>23&deg; 57.20'S 151&deg; 22.50'E</dd>
+INFO:root:======Processing html for OZHFD
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFD HTTP/1.1" 200 1747
+INFO:root:                  <dd>29&deg; 39.62'S 153&deg; 06.34'E</dd>
+INFO:root:======Processing html for OZHFE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFE HTTP/1.1" 200 1462
+INFO:root:                  <dd>34&deg; 15.13'S 150&deg; 34.61'E</dd>
+INFO:root:======Processing html for OZHFF
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFF HTTP/1.1" 200 1717
+INFO:root:                  <dd>28&deg; 37.10'S 152&deg; 47.60'E</dd>
+INFO:root:======Processing html for OZHFG
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFG HTTP/1.1" 200 1628
+INFO:root:                  <dd>25&deg; 04.06'S 148&deg; 03.12'E</dd>
+INFO:root:======Processing html for OZHFH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFH HTTP/1.1" 200 1863
+INFO:root:                  <dd>27&deg; 33.39'S 152&deg; 00.90'E</dd>
+INFO:root:======Processing html for OZHFI
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFI HTTP/1.1" 200 1617
+INFO:root:                  <dd>34&deg; 18.33'S 149&deg; 58.23'E</dd>
+INFO:root:======Processing html for OZHFJ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFJ HTTP/1.1" 200 1868
+INFO:root:                  <dd>28&deg; 28.14'S 152&deg; 33.08'E</dd>
+INFO:root:======Processing html for OZHFK
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFK HTTP/1.1" 200 1685
+INFO:root:                  <dd>33&deg; 43.41'S 151&deg; 15.80'E</dd>
+INFO:root:======Processing html for OZHFL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFL HTTP/1.1" 200 1586
+INFO:root:                  <dd>33&deg; 44.35'S 151&deg; 18.62'E</dd>
+INFO:root:======Processing html for OZHFM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFM HTTP/1.1" 200 1550
+INFO:root:                  <dd>33&deg; 23.20'S 148&deg; 59.33'E</dd>
+INFO:root:======Processing html for OZHFN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFN HTTP/1.1" 200 1560
+INFO:root:                  <dd>32&deg; 40.89'S 149&deg; 51.06'E</dd>
+INFO:root:======Processing html for OZHFO
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFO HTTP/1.1" 200 1594
+INFO:root:                  <dd>33&deg; 27.74'S 151&deg; 11.91'E</dd>
+INFO:root:======Processing html for OZHFP
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFP HTTP/1.1" 200 1639
+INFO:root:                  <dd>33&deg; 49.57'S 151&deg; 15.94'E</dd>
+INFO:root:======Processing html for OZHFQ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFQ HTTP/1.1" 200 1660
+INFO:root:                  <dd>34&deg; 14.04'S 150&deg; 49.79'E</dd>
+INFO:root:======Processing html for OZHFR
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFR HTTP/1.1" 200 1680
+INFO:root:                  <dd>27&deg; 18.50'S 152&deg; 41.34'E</dd>
+INFO:root:======Processing html for OZHFS
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFS HTTP/1.1" 200 1799
+INFO:root:                  <dd>29&deg; 04.44'S 153&deg; 20.30'E</dd>
+INFO:root:======Processing html for OZHFU
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFU HTTP/1.1" 200 1584
+INFO:root:                  <dd>25&deg; 06.98'S 152&deg; 34.22'E</dd>
+INFO:root:======Processing html for OZHFV
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFV HTTP/1.1" 200 1484
+INFO:root:                  <dd>30&deg; 59.21'S 151&deg; 35.68'E</dd>
+INFO:root:======Processing html for OZHFW
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFW HTTP/1.1" 200 1665
+INFO:root:                  <dd>33&deg; 14.10'S 151&deg; 29.60'E</dd>
+INFO:root:======Processing html for OZHFX
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFX HTTP/1.1" 200 1642
+INFO:root:                  <dd>33&deg; 23.01'S 150&deg; 59.32'E</dd>
+INFO:root:======Processing html for OZHFY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHFY HTTP/1.1" 200 1843
+INFO:root:                  <dd>28&deg; 44.28'S 152&deg; 37.51'E</dd>
+INFO:root:======Processing html for OZHIA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIA HTTP/1.1" 200 1573
+INFO:root:                  <dd>35&deg; 56.39'S 148&deg; 22.64'E</dd>
+INFO:root:======Processing html for OZHIB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIB HTTP/1.1" 200 1607
+INFO:root:                  <dd>31&deg; 46.23'S 150&deg; 50.04'E</dd>
+INFO:root:======Processing html for OZHIC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIC HTTP/1.1" 200 1547
+INFO:root:                  <dd>11&deg; 45.80'S 130&deg; 53.50'E</dd>
+INFO:root:======Processing html for OZHID
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHID HTTP/1.1" 200 1619
+INFO:root:                  <dd>25&deg; 13.92'S 152&deg; 16.51'E</dd>
+INFO:root:======Processing html for OZHIF
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIF HTTP/1.1" 200 1745
+INFO:root:                  <dd>29&deg; 35.33'S 152&deg; 46.48'E</dd>
+INFO:root:======Processing html for OZHIG
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIG HTTP/1.1" 200 1739
+INFO:root:                  <dd>28&deg; 55.54'S 152&deg; 22.58'E</dd>
+INFO:root:======Processing html for OZHII
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHII HTTP/1.1" 200 1520
+INFO:root:                  <dd>13&deg; 09.70'S 130&deg; 40.90'E</dd>
+INFO:root:======Processing html for OZHIJ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIJ HTTP/1.1" 200 1558
+INFO:root:                  <dd>13&deg; 07.60'S 130&deg; 48.20'E</dd>
+INFO:root:======Processing html for OZHIK
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIK HTTP/1.1" 200 1541
+INFO:root:                  <dd>13&deg; 05.90'S 130&deg; 47.10'E</dd>
+INFO:root:======Processing html for OZHIL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIL HTTP/1.1" 200 1585
+INFO:root:                  <dd>13&deg; 15.10'S 130&deg; 43.90'E</dd>
+INFO:root:======Processing html for OZHIM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIM HTTP/1.1" 200 1517
+INFO:root:                  <dd>13&deg; 06.20'S 130&deg; 50.70'E</dd>
+INFO:root:======Processing html for OZHIN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIN HTTP/1.1" 200 1517
+INFO:root:                  <dd>13&deg; 12.20'S 130&deg; 42.80'E</dd>
+INFO:root:======Processing html for OZHIO
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIO HTTP/1.1" 200 1514
+INFO:root:                  <dd>13&deg; 12.40'S 130&deg; 45.30'E</dd>
+INFO:root:======Processing html for OZHIP
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIP HTTP/1.1" 200 1523
+INFO:root:                  <dd>13&deg; 04.80'S 130&deg; 41.50'E</dd>
+INFO:root:======Processing html for OZHIQ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIQ HTTP/1.1" 200 1543
+INFO:root:                  <dd>12&deg; 30.01'S 130&deg; 45.95'E</dd>
+INFO:root:======Processing html for OZHIR
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIR HTTP/1.1" 200 1935
+INFO:root:                  <dd>28&deg; 38.11'S 153&deg; 34.63'E</dd>
+INFO:root:======Processing html for OZHIS
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIS HTTP/1.1" 200 1942
+INFO:root:                  <dd>28&deg; 49.60'S 152&deg; 28.86'E</dd>
+INFO:root:======Processing html for OZHIU
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIU HTTP/1.1" 200 1634
+INFO:root:                  <dd>29&deg; 24.41'S 153&deg; 21.17'E</dd>
+INFO:root:======Processing html for OZHIW
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIW HTTP/1.1" 200 1693
+INFO:root:                  <dd>26&deg; 15.75'S 152&deg; 52.58'E</dd>
+INFO:root:======Processing html for OZHIX
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIX HTTP/1.1" 200 1800
+INFO:root:                  <dd>28&deg; 54.47'S 152&deg; 43.23'E</dd>
+INFO:root:======Processing html for OZHIY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIY HTTP/1.1" 200 1763
+INFO:root:                  <dd>28&deg; 35.83'S 153&deg; 13.53'E</dd>
+INFO:root:======Processing html for OZHIZ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHIZ HTTP/1.1" 200 1707
+INFO:root:                  <dd>28&deg; 53.40'S 152&deg; 34.08'E</dd>
+INFO:root:======Processing html for OZHJA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJA HTTP/1.1" 200 1608
+INFO:root:                  <dd>32&deg; 38.00'S 147&deg; 34.30'E</dd>
+INFO:root:======Processing html for OZHJB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJB HTTP/1.1" 200 1765
+INFO:root:                  <dd>33&deg; 33.37'S 151&deg; 11.62'E</dd>
+INFO:root:======Processing html for OZHJC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJC HTTP/1.1" 200 1720
+INFO:root:                  <dd>35&deg; 46.48'S 148&deg; 00.50'E</dd>
+INFO:root:======Processing html for OZHJD
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJD HTTP/1.1" 200 1784
+INFO:root:                  <dd>33&deg; 48.00'S 150&deg; 59.36'E</dd>
+INFO:root:======Processing html for OZHJE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJE HTTP/1.1" 200 1674
+INFO:root:                  <dd>28&deg; 23.38'S 152&deg; 36.37'E</dd>
+INFO:root:======Processing html for OZHJF
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJF HTTP/1.1" 200 1752
+INFO:root:                  <dd>33&deg; 24.43'S 149&deg; 34.45'E</dd>
+INFO:root:======Processing html for OZHJG
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJG HTTP/1.1" 200 1518
+INFO:root:                  <dd>33&deg; 32.84'S 151&deg; 12.94'E</dd>
+INFO:root:======Processing html for OZHJH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJH HTTP/1.1" 200 1709
+INFO:root:                  <dd>33&deg; 48.25'S 150&deg; 52.05'E</dd>
+INFO:root:======Processing html for OZHJK
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJK HTTP/1.1" 200 1587
+INFO:root:                  <dd>34&deg; 33.36'S 148&deg; 22.08'E</dd>
+INFO:root:======Processing html for OZHJL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJL HTTP/1.1" 200 1760
+INFO:root:                  <dd>33&deg; 42.29'S 150&deg; 18.40'E</dd>
+INFO:root:======Processing html for OZHJN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJN HTTP/1.1" 200 1812
+INFO:root:                  <dd>33&deg; 46.25'S 150&deg; 43.85'E</dd>
+INFO:root:======Processing html for OZHJO
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJO HTTP/1.1" 200 1649
+INFO:root:                  <dd>33&deg; 49.01'S 150&deg; 52.26'E</dd>
+INFO:root:======Processing html for OZHJP
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJP HTTP/1.1" 200 1733
+INFO:root:                  <dd>29&deg; 32.34'S 150&deg; 34.77'E</dd>
+INFO:root:======Processing html for OZHJQ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJQ HTTP/1.1" 200 1681
+INFO:root:                  <dd>29&deg; 26.32'S 153&deg; 21.50'E</dd>
+INFO:root:======Processing html for OZHJR
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJR HTTP/1.1" 200 1618
+INFO:root:                  <dd>26&deg; 50.40'S 151&deg; 58.57'E</dd>
+INFO:root:======Processing html for OZHJS
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJS HTTP/1.1" 200 1953
+INFO:root:                  <dd>37&deg; 51.56'S 145&deg; 22.60'E</dd>
+INFO:root:======Processing html for OZHJT
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJT HTTP/1.1" 200 1634
+INFO:root:                  <dd>28&deg; 37.09'S 150&deg; 20.34'E</dd>
+INFO:root:======Processing html for OZHJU
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJU HTTP/1.1" 200 1750
+INFO:root:                  <dd>35&deg; 42.50'S 150&deg; 10.35'E</dd>
+INFO:root:======Processing html for OZHJV
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJV HTTP/1.1" 200 1855
+INFO:root:                  <dd>35&deg; 43.26'S 150&deg; 11.73'E</dd>
+INFO:root:======Processing html for OZHJW
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJW HTTP/1.1" 200 1725
+INFO:root:                  <dd>36&deg; 20.96'S 148&deg; 35.77'E</dd>
+INFO:root:======Processing html for OZHJX
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJX HTTP/1.1" 200 1801
+INFO:root:                  <dd>34&deg; 30.00'S 144&deg; 51.20'E</dd>
+INFO:root:======Processing html for OZHJZ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHJZ HTTP/1.1" 200 1621
+INFO:root:                  <dd>26&deg; 06.28'S 151&deg; 26.96'E</dd>
+INFO:root:======Processing html for OZHKA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHKA HTTP/1.1" 200 1781
+INFO:root:                  <dd>28&deg; 25.00'S 153&deg; 19.64'E</dd>
+INFO:root:======Processing html for OZHKB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHKB HTTP/1.1" 200 1813
+INFO:root:                  <dd>32&deg; 36.17'S 149&deg; 35.39'E</dd>
+INFO:root:======Processing html for OZHKC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHKC HTTP/1.1" 200 1682
+INFO:root:                  <dd>34&deg; 03.20'S 150&deg; 41.48'E</dd>
+INFO:root:======Processing html for OZHKD
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHKD HTTP/1.1" 200 1745
+INFO:root:                  <dd>34&deg; 19.80'S 150&deg; 36.50'E</dd>
+INFO:root:======Processing html for OZHKF
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHKF HTTP/1.1" 200 1926
+INFO:root:                  <dd>29&deg; 44.40'S 153&deg; 03.90'E</dd>
+INFO:root:======Processing html for OZHKG
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHKG HTTP/1.1" 200 2509
+INFO:root:                  <dd>31&deg; 30.10'S 150&deg; 40.40'E</dd>
+INFO:root:======Processing html for OZHKH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHKH HTTP/1.1" 200 1610
+INFO:root:                  <dd>12&deg; 32.20'S 130&deg; 42.00'E</dd>
+INFO:root:======Processing html for OZHKJ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHKJ HTTP/1.1" 200 1555
+INFO:root:                  <dd>32&deg; 45.00'S 148&deg; 38.80'E</dd>
+INFO:root:======Processing html for OZHKL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHKL HTTP/1.1" 200 1579
+INFO:root:                  <dd>34&deg; 15.37'S 150&deg; 48.42'E</dd>
+INFO:root:======Processing html for OZHKM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHKM HTTP/1.1" 200 1583
+INFO:root:                  <dd>34&deg; 44.19'S 149&deg; 43.72'E</dd>
+INFO:root:======Processing html for OZHKN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHKN HTTP/1.1" 200 1634
+INFO:root:                  <dd>35&deg; 31.20'S 148&deg; 09.20'E</dd>
+INFO:root:======Processing html for OZHKO
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHKO HTTP/1.1" 200 1513
+INFO:root:                  <dd>36&deg; 12.87'S 150&deg; 08.14'E</dd>
+INFO:root:======Processing html for OZHKP
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHKP HTTP/1.1" 200 1769
+INFO:root:                  <dd>36&deg; 14.12'S 149&deg; 07.82'E</dd>
+INFO:root:======Processing html for OZHMC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHMC HTTP/1.1" 200 1635
+INFO:root:                  <dd>30&deg; 33.80'S 150&deg; 07.20'E</dd>
+INFO:root:======Processing html for OZHNU
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHNU HTTP/1.1" 200 1648
+INFO:root:                  <dd>30&deg; 31.30'S 149&deg; 54.00'E</dd>
+INFO:root:======Processing html for OZHPO
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHPO HTTP/1.1" 200 1781
+INFO:root:                  <dd>33&deg; 51.49'S 151&deg; 12.60'E</dd>
+INFO:root:======Processing html for OZHPP
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHPP HTTP/1.1" 200 1783
+INFO:root:                  <dd>33&deg; 51.49'S 151&deg; 12.60'E</dd>
+INFO:root:======Processing html for OZHPQ
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHPQ HTTP/1.1" 200 1724
+INFO:root:                  <dd>33&deg; 51.49'S 151&deg; 12.60'E</dd>
+INFO:root:======Processing html for OZHSP
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHSP HTTP/1.1" 200 1723
+INFO:root:                  <dd>33&deg; 51.49'S 151&deg; 12.60'E</dd>
+INFO:root:======Processing html for OZHTT
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHTT HTTP/1.1" 200 1597
+INFO:root:                  <dd>35&deg; 18.40'S 148&deg; 13.20'E</dd>
+INFO:root:======Processing html for OZHTW
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHTW HTTP/1.1" 200 1689
+INFO:root:                  <dd>30&deg; 38.50'S 150&deg; 09.70'E</dd>
+INFO:root:======Processing html for OZHWC
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHWC HTTP/1.1" 200 1667
+INFO:root:                  <dd>31&deg; 23.20'S 150&deg; 37.70'E</dd>
+INFO:root:======Processing html for OZHWE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZHWE HTTP/1.1" 200 1487
+INFO:root:                  <dd>14&deg; 55.20'S 133&deg; 03.80'E</dd>
+INFO:root:======Processing html for OZRGH
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.ozrunways.com:443
+DEBUG:urllib3.connectionpool:https://www.ozrunways.com:443 "GET /helipads/view/content.jsp?code=OZRGH HTTP/1.1" 200 1545
+INFO:root:                  <dd>34&deg; 19.94'S 148&deg; 19.58'E</dd>
